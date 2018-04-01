@@ -2,2039 +2,2039 @@
 @prefix si2:   <http://www.si2.com/> .
 @prefix aemet: <http://aemet.linkeddata.es/ontology/> .
 
-si2:5390Y  aemet:Province  "CORDOBA" ;
-        aemet:indsinop     "08346" ;
-        aemet:stationName  "VILLANUEVA DE CÓRDOBA" ;
-        geo:alt            "750" ;
-        geo:lat            "381959N" ;
-        geo:long           "043632W" .
-
-si2:1208H  aemet:Province  "ASTURIAS" ;
-        aemet:indsinop     "08014" ;
-        aemet:stationName  "GIJÓN, PUERTO" ;
-        geo:alt            "5" ;
-        geo:lat            "433336N" ;
-        geo:long           "054203W" .
-
-si2:6084X  aemet:Province  "MALAGA" ;
-        aemet:indsinop     "08480" ;
-        aemet:stationName  "FUENGIROLA" ;
-        geo:alt            "8" ;
-        geo:lat            "363219N" ;
-        geo:long           "043706W" .
-
-si2:B013X  aemet:Province  "ILLES BALEARS" ;
-        aemet:indsinop     "08304" ;
-        aemet:stationName  "ESCORCA, LLUC" ;
-        geo:alt            "490" ;
-        geo:lat            "394924N" ;
-        geo:long           "025309E" .
-
-si2:8058X  aemet:Province  "VALENCIA" ;
-        aemet:indsinop     "08282" ;
-        aemet:stationName  "OLIVA" ;
-        geo:alt            "5" ;
-        geo:lat            "385544N" ;
-        geo:long           "000545W" .
-
-si2:9698U  aemet:Province  "LLEIDA" ;
-        aemet:indsinop     "08112" ;
-        aemet:stationName  "TALARN" ;
-        geo:alt            "807" ;
-        geo:lat            "421219N" ;
-        geo:long           "005155E" .
-
-si2:3191E  aemet:Province  "MADRID" ;
-        aemet:indsinop     "08219" ;
-        aemet:stationName  "COLMENAR VIEJO" ;
-        geo:alt            "1004" ;
-        geo:lat            "404146N" ;
-        geo:long           "034554W" .
-
-si2:1212E  aemet:Province  "ASTURIAS" ;
-        aemet:indsinop     "08011" ;
-        aemet:stationName  "ASTURIAS AEROPUERTO" ;
-        geo:alt            "127" ;
-        geo:lat            "433401N" ;
-        geo:long           "060239W" .
-
-si2:0252D  aemet:Province  "BARCELONA" ;
-        aemet:indsinop     "08186" ;
-        aemet:stationName  "ARENYS DE MAR" ;
-        geo:alt            "74" ;
-        geo:lat            "413515N" ;
-        geo:long           "023224E" .
-
-si2:1109  aemet:Province   "CANTABRIA" ;
-        aemet:indsinop     "08021" ;
-        aemet:stationName  "SANTANDER AEROPUERTO" ;
-        geo:alt            "3" ;
-        geo:lat            "432526N" ;
-        geo:long           "034932W" .
-
-si2:5402  aemet:Province   "CORDOBA" ;
-        aemet:indsinop     "08410" ;
-        aemet:stationName  "CÓRDOBA AEROPUERTO" ;
-        geo:alt            "90" ;
-        geo:lat            "375056N" ;
-        geo:long           "045048W" .
-
-si2:4067  aemet:Province   "TOLEDO" ;
-        aemet:indsinop     "08273" ;
-        aemet:stationName  "MADRIDEJOS" ;
-        geo:alt            "690" ;
-        geo:lat            "392931N" ;
-        geo:long           "033142W" .
-
-si2:1393  aemet:Province   "A CORUÑA" ;
-        aemet:indsinop     "08006" ;
-        aemet:stationName  "CABO VILAN" ;
-        geo:alt            "50" ;
-        geo:lat            "430938N" ;
-        geo:long           "091239W" .
-
-si2:2870  aemet:Province   "SALAMANCA" ;
-        aemet:indsinop     "08201" ;
-        aemet:stationName  "SALAMANCA" ;
-        geo:alt            "775" ;
-        geo:lat            "405727N" ;
-        geo:long           "053944W" .
-
-si2:2465  aemet:Province   "SEGOVIA" ;
-        aemet:indsinop     "08213" ;
-        aemet:stationName  "SEGOVIA" ;
-        geo:alt            "1005" ;
-        geo:lat            "405643N" ;
-        geo:long           "040735W" .
-
-si2:1351  aemet:Province   "A CORUÑA" ;
-        aemet:indsinop     "08004" ;
-        aemet:stationName  "ESTACA DE BARES" ;
-        geo:alt            "80" ;
-        geo:lat            "434710N" ;
-        geo:long           "074105W" .
-
-si2:2491C  aemet:Province  "SALAMANCA" ;
-        aemet:indsinop     "08205" ;
-        aemet:stationName  "LA COVATILLA, ESTACIÓN DE ESQUÍ" ;
-        geo:alt            "1960" ;
-        geo:lat            "402118N" ;
-        geo:long           "054124W" .
-
-si2:1283U  aemet:Province  "ASTURIAS" ;
-        aemet:indsinop     "08010" ;
-        aemet:stationName  "CABO BUSTO" ;
-        geo:alt            "60" ;
-        geo:lat            "433409N" ;
-        geo:long           "062812W" .
-
-si2:1159  aemet:Province   "CANTABRIA" ;
-        aemet:indsinop     "08017" ;
-        aemet:stationName  "SAN VICENTE DE LA BARQUERA" ;
-        geo:alt            "38" ;
-        geo:lat            "432336N" ;
-        geo:long           "042332W" .
-
-si2:9294E  aemet:Province  "NAVARRA" ;
-        aemet:indsinop     "08087" ;
-        aemet:stationName  "BARDENAS REALES, BASE AÉREA " ;
-        geo:alt            "295" ;
-        geo:lat            "421155N" ;
-        geo:long           "012831W" .
-
-si2:2444  aemet:Province   "AVILA" ;
-        aemet:indsinop     "08210" ;
-        aemet:stationName  "ÁVILA" ;
-        geo:alt            "1130" ;
-        geo:lat            "403933N" ;
-        geo:long           "044048W" .
-
-si2:1055B  aemet:Province  "BIZKAIA" ;
-        aemet:indsinop     "08024" ;
-        aemet:stationName  "LEKEITIO" ;
-        geo:alt            "12" ;
-        geo:lat            "432237N" ;
-        geo:long           "023037W" .
-
-si2:8178D  aemet:Province  "ALBACETE" ;
-        aemet:indsinop     "08279" ;
-        aemet:stationName  "ALBACETE" ;
-        geo:alt            "674" ;
-        geo:lat            "390020N" ;
-        geo:long           "015144W" .
-
-si2:3195  aemet:Province   "MADRID" ;
-        aemet:indsinop     "08222" ;
-        aemet:stationName  "MADRID, RETIRO" ;
-        geo:alt            "667" ;
-        geo:lat            "402443N" ;
-        geo:long           "034041W" .
-
-si2:3168A  aemet:Province  "GUADALAJARA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "GUADALAJARA, INSTITUTO" ;
-        geo:alt            "685" ;
-        geo:lat            "403805N" ;
-        geo:long           "031000W" .
-
-si2:1050J  aemet:Province  "GIPUZKOA" ;
-        aemet:indsinop     "08036" ;
-        aemet:stationName  "ELGOIBAR" ;
-        geo:alt            "120" ;
-        geo:lat            "431234N" ;
-        geo:long           "022448W" .
-
-si2:0324A  aemet:Province  "GIRONA" ;
-        aemet:indsinop     "08118" ;
-        aemet:stationName  "RIPOLL" ;
-        geo:alt            "675" ;
-        geo:lat            "421129N" ;
-        geo:long           "021146E" .
-
-si2:6106X  aemet:Province  "MALAGA" ;
-        aemet:indsinop     "08413" ;
-        aemet:stationName  "ANTEQUERA" ;
-        geo:alt            "408" ;
-        geo:lat            "370146N" ;
-        geo:long           "044454W" .
-
-si2:8501  aemet:Province   "CASTELLON" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "CASTELLÓN DE LA PLANA" ;
-        geo:alt            "25" ;
-        geo:lat            "395920N" ;
-        geo:long           "000224W" .
-
-si2:2331  aemet:Province   "BURGOS" ;
-        aemet:indsinop     "08075" ;
-        aemet:stationName  "BURGOS AEROPUERTO" ;
-        geo:alt            "891" ;
-        geo:lat            "422125N" ;
-        geo:long           "033713W" .
-
-si2:1690A  aemet:Province  "OURENSE" ;
-        aemet:indsinop     "08048" ;
-        aemet:stationName  "OURENSE" ;
-        geo:alt            "143" ;
-        geo:lat            "421931N" ;
-        geo:long           "075135W" .
-
-si2:9208E  aemet:Province  "HUESCA" ;
-        aemet:indsinop     "08095" ;
-        aemet:stationName  "ARAGÜÉS DEL PUERTO" ;
-        geo:alt            "1040" ;
-        geo:lat            "424232N" ;
-        geo:long           "004023W" .
-
-si2:9771C  aemet:Province  "LLEIDA" ;
-        aemet:indsinop     "08171" ;
-        aemet:stationName  "LLEIDA" ;
-        geo:alt            "185" ;
-        geo:lat            "413734N" ;
-        geo:long           "003553E" .
-
-si2:0201D  aemet:Province  "BARCELONA" ;
-        aemet:indsinop     "08180" ;
-        aemet:stationName  "BARCELONA" ;
-        geo:alt            "6" ;
-        geo:lat            "412326N" ;
-        geo:long           "021200E" .
-
-si2:3266A  aemet:Province  "MADRID" ;
-        aemet:indsinop     "08217" ;
-        aemet:stationName  "PUERTO ALTO DEL LEÓN" ;
-        geo:alt            "1532" ;
-        geo:lat            "404223N" ;
-        geo:long           "040831W" .
-
-si2:2150H  aemet:Province  "SEGOVIA" ;
-        aemet:indsinop     "08143" ;
-        aemet:stationName  "LA PINILLA, ESTACIÓN DE ESQUÍ" ;
-        geo:alt            "1860" ;
-        geo:lat            "411131N" ;
-        geo:long           "032831W" .
-
-si2:8025  aemet:Province   "ALICANTE" ;
-        aemet:indsinop     "08359" ;
-        aemet:stationName  "ALICANTE/ALACANT" ;
-        geo:alt            "81" ;
-        geo:lat            "382221N" ;
-        geo:long           "002939W" .
-
-si2:8177A  aemet:Province  "ALBACETE" ;
-        aemet:indsinop     "08278" ;
-        aemet:stationName  "CHINCHILLA" ;
-        geo:alt            "880" ;
-        geo:lat            "385609N" ;
-        geo:long           "013936W" .
-
-si2:1207U  aemet:Province  "ASTURIAS" ;
-        aemet:indsinop     "08014" ;
-        aemet:stationName  "GIJÓN, CAMPUS" ;
-        geo:alt            "26" ;
-        geo:lat            "433123N" ;
-        geo:long           "053716W" .
-
-si2:4642E  aemet:Province  "HUELVA" ;
-        aemet:indsinop     "08383" ;
-        aemet:stationName  "HUELVA, RONDA ESTE" ;
-        geo:alt            "19" ;
-        geo:lat            "371642N" ;
-        geo:long           "065442W" .
-
-si2:C430E  aemet:Province  "STA. CRUZ DE TENERIFE" ;
-        aemet:indsinop     "60010" ;
-        aemet:stationName  "IZAÑA" ;
-        geo:alt            "2371" ;
-        geo:lat            "281832N" ;
-        geo:long           "162958W" .
-
-si2:2503X  aemet:Province  "VALLADOLID" ;
-        aemet:indsinop     "08142" ;
-        aemet:stationName  "OLMEDO" ;
-        geo:alt            "740" ;
-        geo:lat            "411933N" ;
-        geo:long           "044113W" .
-
-si2:9091O  aemet:Province  "ARABA/ALAVA" ;
-        aemet:indsinop     "08080" ;
-        aemet:stationName  "FORONDA-TXOKIZA" ;
-        geo:alt            "513" ;
-        geo:lat            "425255N" ;
-        geo:long           "024406W" .
-
-si2:8096  aemet:Province   "CUENCA" ;
-        aemet:indsinop     "08231" ;
-        aemet:stationName  "CUENCA" ;
-        geo:alt            "948" ;
-        geo:lat            "400402N" ;
-        geo:long           "020755W" .
-
-si2:3519X  aemet:Province  "CACERES" ;
-        aemet:indsinop     "08252" ;
-        aemet:stationName  "PLASENCIA" ;
-        geo:alt            "415" ;
-        geo:lat            "400235N" ;
-        geo:long           "060509W" .
-
-si2:9381  aemet:Province   "TERUEL" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "CALAMOCHA, AERÓDROMO" ;
-        geo:alt            "932" ;
-        geo:lat            "405154N" ;
-        geo:long           "011818W" .
-
-si2:7031X  aemet:Province  "MURCIA" ;
-        aemet:indsinop     "08433" ;
-        aemet:stationName  "SAN JAVIER AEROPUERTO" ;
-        geo:alt            "4" ;
-        geo:lat            "374642N" ;
-        geo:long           "004821W" .
-
-si2:C929I  aemet:Province  "STA. CRUZ DE TENERIFE" ;
-        aemet:indsinop     "60001" ;
-        aemet:stationName  "HIERRO AEROPUERTO" ;
-        geo:alt            "32" ;
-        geo:lat            "274908N" ;
-        geo:long           "175320W" .
-
-si2:2117D  aemet:Province  "BURGOS" ;
-        aemet:indsinop     "08144" ;
-        aemet:stationName  "ARANDA DE DUERO" ;
-        geo:alt            "790" ;
-        geo:lat            "413957N" ;
-        geo:long           "034434W" .
-
-si2:8523X  aemet:Province  "CASTELLON" ;
-        aemet:indsinop     "08239" ;
-        aemet:stationName  "VINARÒS" ;
-        geo:alt            "111" ;
-        geo:lat            "403315N" ;
-        geo:long           "002547E" .
-
-si2:2755X  aemet:Province  "ZAMORA" ;
-        aemet:indsinop     "08056" ;
-        aemet:stationName  "BENAVENTE" ;
-        geo:alt            "715" ;
-        geo:lat            "420039N" ;
-        geo:long           "054000W" .
-
-si2:5973  aemet:Province   "CADIZ" ;
-        aemet:indsinop     "08452" ;
-        aemet:stationName  "CÁDIZ" ;
-        geo:alt            "2" ;
-        geo:lat            "362959N" ;
-        geo:long           "061528W" .
-
-si2:8175  aemet:Province   "ALBACETE" ;
-        aemet:indsinop     "08280" ;
-        aemet:stationName  "ALBACETE BASE AÉREA" ;
-        geo:alt            "702" ;
-        geo:lat            "385715N" ;
-        geo:long           "015123W" .
-
-si2:1473A  aemet:Province  "A CORUÑA" ;
-        aemet:indsinop     "08039" ;
-        aemet:stationName  "PADRÓN" ;
-        geo:alt            "100" ;
-        geo:lat            "424418N" ;
-        geo:long           "083738W" .
-
-si2:C619I  aemet:Province  "LAS PALMAS" ;
-        aemet:indsinop     "60027" ;
-        aemet:stationName  "LA ALDEA DE SAN NICOLÁS" ;
-        geo:alt            "10" ;
-        geo:lat            "280003N" ;
-        geo:long           "154850W" .
-
-si2:2539  aemet:Province   "VALLADOLID" ;
-        aemet:indsinop     "08140" ;
-        aemet:stationName  "VALLADOLID AEROPUERTO" ;
-        geo:alt            "846" ;
-        geo:lat            "414243N" ;
-        geo:long           "045120W" .
-
-si2:5910  aemet:Province   "CADIZ" ;
-        aemet:indsinop     "08449" ;
-        aemet:stationName  "ROTA, BASE NAVAL" ;
-        geo:alt            "21" ;
-        geo:lat            "363820N" ;
-        geo:long           "061957W" .
-
-si2:6156X  aemet:Province  "MALAGA" ;
-        aemet:indsinop     "08481" ;
-        aemet:stationName  "MÁLAGA, CENTRO METEOROLÓGICO" ;
-        geo:alt            "54" ;
-        geo:lat            "364304N" ;
-        geo:long           "042854W" .
-
-si2:9720X  aemet:Province  "LLEIDA" ;
-        aemet:indsinop     "08173" ;
-        aemet:stationName  "TÀRREGA" ;
-        geo:alt            "388" ;
-        geo:lat            "413902N" ;
-        geo:long           "010858E" .
-
-si2:9244X  aemet:Province  "ZARAGOZA" ;
-        aemet:indsinop     "08090" ;
-        aemet:stationName  "SOS DEL REY CATÓLICO" ;
-        geo:alt            "626" ;
-        geo:lat            "422927N" ;
-        geo:long           "011249W" .
-
-si2:B569X  aemet:Province  "ILLES BALEARS" ;
-        aemet:indsinop     "08311" ;
-        aemet:stationName  "CAPDEPERA" ;
-        geo:alt            "66" ;
-        geo:lat            "394256N" ;
-        geo:long           "032841E" .
-
-si2:6325O  aemet:Province  "ALMERIA" ;
-        aemet:indsinop     "08487" ;
-        aemet:stationName  "ALMERÍA AEROPUERTO" ;
-        geo:alt            "21" ;
-        geo:lat            "365047N" ;
-        geo:long           "022125W" .
-
-si2:1078I  aemet:Province  "BIZKAIA" ;
-        aemet:indsinop     "08035" ;
-        aemet:stationName  "GÜEÑES" ;
-        geo:alt            "208" ;
-        geo:lat            "431212N" ;
-        geo:long           "030617W" .
-
-si2:1437O  aemet:Province  "A CORUÑA" ;
-        aemet:indsinop     "08043" ;
-        aemet:stationName  "MONTE IROITE" ;
-        geo:alt            "685" ;
-        geo:lat            "424314N" ;
-        geo:long           "085524W" .
-
-si2:2775X  aemet:Province  "ZAMORA" ;
-        aemet:indsinop     "08125" ;
-        aemet:stationName  "VILLARDECIERVOS" ;
-        geo:alt            "850" ;
-        geo:lat            "415629N" ;
-        geo:long           "061647W" .
-
-si2:3168D  aemet:Province  "GUADALAJARA" ;
-        aemet:indsinop     "08226" ;
-        aemet:stationName  "GUADALAJARA" ;
-        geo:alt            "721" ;
-        geo:lat            "403749N" ;
-        geo:long           "030900W" .
-
-si2:7275C  aemet:Province  "MURCIA" ;
-        aemet:indsinop     "08356" ;
-        aemet:stationName  "YECLA" ;
-        geo:alt            "640" ;
-        geo:lat            "383606N" ;
-        geo:long           "010935W" .
-
-si2:5960  aemet:Province   "CADIZ" ;
-        aemet:indsinop     "08451" ;
-        aemet:stationName  "JEREZ DE LA FRONTERA AEROPUERTO" ;
-        geo:alt            "27" ;
-        geo:lat            "364502N" ;
-        geo:long           "060321W" .
-
-si2:6001  aemet:Province   "CADIZ" ;
-        aemet:indsinop     "08458" ;
-        aemet:stationName  "TARIFA" ;
-        geo:alt            "32" ;
-        geo:lat            "360050N" ;
-        geo:long           "053556W" .
-
-si2:6332X  aemet:Province  "ALMERIA" ;
-        aemet:indsinop     "08488" ;
-        aemet:stationName  "CARBONERAS" ;
-        geo:alt            "16" ;
-        geo:lat            "365849N" ;
-        geo:long           "015413W" .
-
-si2:9987P  aemet:Province  "TARRAGONA" ;
-        aemet:indsinop     "08240" ;
-        aemet:stationName  "SANT JAUME D'ENVEJA" ;
-        geo:alt            "1" ;
-        geo:lat            "404157N" ;
-        geo:long           "004836E" .
-
-si2:4061X  aemet:Province  "TOLEDO" ;
-        aemet:indsinop     "08275" ;
-        aemet:stationName  "QUINTANAR DE LA ORDEN" ;
-        geo:alt            "691" ;
-        geo:lat            "393551N" ;
-        geo:long           "030249W" .
-
-si2:5192  aemet:Province   "JAEN" ;
-        aemet:indsinop     "08354" ;
-        aemet:stationName  "VILLARRODRIGO" ;
-        geo:alt            "862" ;
-        geo:lat            "382921N" ;
-        geo:long           "023815W" .
-
-si2:3469  aemet:Province   "CACERES" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "CÁCERES, CIUDAD" ;
-        geo:alt            "459" ;
-        geo:lat            "392833N" ;
-        geo:long           "062235W" .
-
-si2:C649I  aemet:Province  "LAS PALMAS" ;
-        aemet:indsinop     "60030" ;
-        aemet:stationName  "GRAN CANARIA AEROPUERTO" ;
-        geo:alt            "32" ;
-        geo:lat            "275504N" ;
-        geo:long           "152343W" .
-
-si2:1249I  aemet:Province  "ASTURIAS" ;
-        aemet:indsinop     "08015" ;
-        aemet:stationName  "OVIEDO" ;
-        geo:alt            "336" ;
-        geo:lat            "432112N" ;
-        geo:long           "055227W" .
-
-si2:5641X  aemet:Province  "SEVILLA" ;
-        aemet:indsinop     "08395" ;
-        aemet:stationName  "ÉCIJA" ;
-        geo:alt            "130" ;
-        geo:lat            "373058N" ;
-        geo:long           "050506W" .
-
-si2:2946X  aemet:Province  "SALAMANCA" ;
-        aemet:indsinop     "08195" ;
-        aemet:stationName  "SAELICES EL CHICO" ;
-        geo:alt            "680" ;
-        geo:lat            "403806N" ;
-        geo:long           "063600W" .
-
-si2:4358X  aemet:Province  "BADAJOZ" ;
-        aemet:indsinop     "08333" ;
-        aemet:stationName  "DON BENITO" ;
-        geo:alt            "273" ;
-        geo:lat            "385720N" ;
-        geo:long           "055250W" .
-
-si2:C447A  aemet:Province  "STA. CRUZ DE TENERIFE" ;
-        aemet:indsinop     "60015" ;
-        aemet:stationName  "TENERIFE NORTE AEROPUERTO" ;
-        geo:alt            "632" ;
-        geo:lat            "282839N" ;
-        geo:long           "161946W" .
-
-si2:3110C  aemet:Province  "MADRID" ;
-        aemet:indsinop     "08146" ;
-        aemet:stationName  "BUITRAGO DEL LOZOYA" ;
-        geo:alt            "1026" ;
-        geo:lat            "410025N" ;
-        geo:long           "033649W" .
-
-si2:7002Y  aemet:Province  "MURCIA" ;
-        aemet:indsinop     "08432" ;
-        aemet:stationName  "ÁGUILAS" ;
-        geo:alt            "26" ;
-        geo:lat            "372502N" ;
-        geo:long           "013513W" .
-
-si2:9434  aemet:Province   "ZARAGOZA" ;
-        aemet:indsinop     "08160" ;
-        aemet:stationName  "ZARAGOZA AEROPUERTO" ;
-        geo:alt            "249" ;
-        geo:lat            "413938N" ;
-        geo:long           "010015W" .
-
-si2:8416Y  aemet:Province  "VALENCIA" ;
-        aemet:indsinop     "08285" ;
-        aemet:stationName  "VALÈNCIA, VIVEROS" ;
-        geo:alt            "11" ;
-        geo:lat            "392850N" ;
-        geo:long           "002159W" .
-
-si2:9091R  aemet:Province  "ARABA/ALAVA" ;
-        aemet:indsinop     "08080" ;
-        aemet:stationName  "VITORIA GASTEIZ AEROPUERTO" ;
-        geo:alt            "513" ;
-        geo:lat            "425219N" ;
-        geo:long           "024359W" .
-
-si2:9814A  aemet:Province  "HUESCA" ;
-        aemet:indsinop     "08101" ;
-        aemet:stationName  "TORLA" ;
-        geo:alt            "1020" ;
-        geo:lat            "423736N" ;
-        geo:long           "000642W" .
-
-si2:C439J  aemet:Province  "STA. CRUZ DE TENERIFE" ;
-        aemet:indsinop     "60018" ;
-        aemet:stationName  "GÜÍMAR" ;
-        geo:alt            "115" ;
-        geo:lat            "281906N" ;
-        geo:long           "162256W" .
-
-si2:7031  aemet:Province   "MURCIA" ;
-        aemet:indsinop     "08433" ;
-        aemet:stationName  "SAN JAVIER AEROPUERTO" ;
-        geo:alt            "4" ;
-        geo:lat            "374720N" ;
-        geo:long           "004812W" .
-
-si2:1002Y  aemet:Province  "NAVARRA" ;
-        aemet:indsinop     "08030" ;
-        aemet:stationName  "BAZTAN, IRURITA " ;
-        geo:alt            "183" ;
-        geo:lat            "430809N" ;
-        geo:long           "013235W" .
-
-si2:1631E  aemet:Province  "OURENSE" ;
-        aemet:indsinop     "08051" ;
-        aemet:stationName  "A POBRA DE TRIVES" ;
-        geo:alt            "840" ;
-        geo:lat            "422022N" ;
-        geo:long           "071657W" .
-
-si2:1208A  aemet:Province  "ASTURIAS" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "GIJÓN. LA MERCED" ;
-        geo:alt            "22" ;
-        geo:lat            "433230N" ;
-        geo:long           "053943W" .
-
-si2:6277B  aemet:Province  "ALMERIA" ;
-        aemet:indsinop     "08486" ;
-        aemet:stationName  "ADRA" ;
-        geo:alt            "8" ;
-        geo:lat            "364450N" ;
-        geo:long           "030114W" .
-
-si2:3130C  aemet:Province  "GUADALAJARA" ;
-        aemet:indsinop     "08150" ;
-        aemet:stationName  "SIGÜENZA" ;
-        geo:alt            "1005" ;
-        geo:lat            "410511N" ;
-        geo:long           "023705W" .
-
-si2:1428  aemet:Province   "A CORUÑA" ;
-        aemet:indsinop     "08042" ;
-        aemet:stationName  "SANTIAGO DE COMPOSTELA AEROPUERTO" ;
-        geo:alt            "370" ;
-        geo:lat            "425317N" ;
-        geo:long           "082438W" .
-
-si2:1083L  aemet:Province  "CANTABRIA" ;
-        aemet:indsinop     "08020" ;
-        aemet:stationName  "CASTRO URDIALES" ;
-        geo:alt            "45" ;
-        geo:lat            "432341N" ;
-        geo:long           "031402W" .
-
-si2:1700X  aemet:Province  "OURENSE" ;
-        aemet:indsinop     "08047" ;
-        aemet:stationName  "CARBALLIÑO, O" ;
-        geo:alt            "400" ;
-        geo:lat            "422517N" ;
-        geo:long           "080533W" .
-
-si2:0372C  aemet:Province  "GIRONA" ;
-        aemet:indsinop     "08120" ;
-        aemet:stationName  "PORQUERES" ;
-        geo:alt            "157" ;
-        geo:lat            "420616N" ;
-        geo:long           "024549E" .
-
-si2:4386B  aemet:Province  "BADAJOZ" ;
-        aemet:indsinop     "08336" ;
-        aemet:stationName  "LLERENA" ;
-        geo:alt            "655" ;
-        geo:lat            "381354N" ;
-        geo:long           "060101W" .
-
-si2:0370B  aemet:Province  "GIRONA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "GIRONA, ANTIC INSTITUT" ;
-        geo:alt            "95" ;
-        geo:lat            "415848N" ;
-        geo:long           "024931E" .
-
-si2:1549  aemet:Province   "LEON" ;
-        aemet:indsinop     "08053" ;
-        aemet:stationName  "PONFERRADA" ;
-        geo:alt            "534" ;
-        geo:lat            "423350N" ;
-        geo:long           "063600W" .
-
-si2:1024E  aemet:Province  "GIPUZKOA" ;
-        aemet:indsinop     "08027" ;
-        aemet:stationName  "DONOSTIA/SAN SEBASTIÁN, IGUELDO" ;
-        geo:alt            "251" ;
-        geo:lat            "431823N" ;
-        geo:long           "020228W" .
-
-si2:8293X  aemet:Province  "VALENCIA" ;
-        aemet:indsinop     "08290" ;
-        aemet:stationName  "XÀTIVA" ;
-        geo:alt            "88" ;
-        geo:lat            "390006N" ;
-        geo:long           "003125W" .
-
-si2:5051X  aemet:Province  "GRANADA" ;
-        aemet:indsinop     "08423" ;
-        aemet:stationName  "HUÉSCAR" ;
-        geo:alt            "1092" ;
-        geo:lat            "375140N" ;
-        geo:long           "023910W" .
-
-si2:4103X  aemet:Province  "CIUDAD REAL" ;
-        aemet:indsinop     "08276" ;
-        aemet:stationName  "TOMELLOSO" ;
-        geo:alt            "662" ;
-        geo:lat            "391009N" ;
-        geo:long           "030027W" .
-
-si2:4267X  aemet:Province  "CORDOBA" ;
-        aemet:indsinop     "08335" ;
-        aemet:stationName  "HINOJOSA DEL DUQUE" ;
-        geo:alt            "551" ;
-        geo:lat            "382955N" ;
-        geo:long           "050716W" .
-
-si2:9087  aemet:Province   "ARABA/ALAVA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "VITORIA AERÓDROMO" ;
-        geo:alt            "521" ;
-        geo:lat            "425059N" ;
-        geo:long           "023922W" .
-
-si2:1331A  aemet:Province  "ASTURIAS" ;
-        aemet:indsinop     "08009" ;
-        aemet:stationName  "CASTROPOL" ;
-        geo:alt            "40" ;
-        geo:lat            "433129N" ;
-        geo:long           "070153W" .
-
-si2:4410X  aemet:Province  "BADAJOZ" ;
-        aemet:indsinop     "08331" ;
-        aemet:stationName  "MÉRIDA" ;
-        geo:alt            "228" ;
-        geo:lat            "385457N" ;
-        geo:long           "062308W" .
-
-si2:2444C  aemet:Province  "AVILA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "ÁVILA, AYUNTAMIENTO" ;
-        geo:alt            "1143" ;
-        geo:lat            "403924N" ;
-        geo:long           "044201W" .
-
-si2:3259  aemet:Province   "TOLEDO" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "TOLEDO, LORENZANA" ;
-        geo:alt            "540" ;
-        geo:lat            "395134N" ;
-        geo:long           "040132W" .
-
-si2:9563X  aemet:Province  "CASTELLON" ;
-        aemet:indsinop     "08237" ;
-        aemet:stationName  "CASTELLFORT" ;
-        geo:alt            "1220" ;
-        geo:lat            "402955N" ;
-        geo:long           "001112W" .
-
-si2:5298X  aemet:Province  "JAEN" ;
-        aemet:indsinop     "08347" ;
-        aemet:stationName  "ANDÚJAR" ;
-        geo:alt            "202" ;
-        geo:lat            "380123N" ;
-        geo:long           "040350W" .
-
-si2:1037Y  aemet:Province  "GIPUZKOA" ;
-        aemet:indsinop     "08037" ;
-        aemet:stationName  "ZUMARRAGA" ;
-        geo:alt            "420" ;
-        geo:lat            "430448N" ;
-        geo:long           "021903W" .
-
-si2:6302A  aemet:Province  "ALMERIA" ;
-        aemet:indsinop     "08427" ;
-        aemet:stationName  "ABLA" ;
-        geo:alt            "885" ;
-        geo:lat            "370829N" ;
-        geo:long           "024647W" .
-
-si2:1110  aemet:Province   "CANTABRIA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "SANTANDER, CIUDAD" ;
-        geo:alt            "64" ;
-        geo:lat            "432754N" ;
-        geo:long           "034908W" .
-
-si2:C129Z  aemet:Province  "STA. CRUZ DE TENERIFE" ;
-        aemet:indsinop     "60004" ;
-        aemet:stationName  "TAZACORTE" ;
-        geo:alt            "62" ;
-        geo:lat            "283545N" ;
-        geo:long           "175455W" .
-
-si2:9573X  aemet:Province  "TERUEL" ;
-        aemet:indsinop     "08164" ;
-        aemet:stationName  "ALCAÑIZ" ;
-        geo:alt            "334" ;
-        geo:lat            "410329N" ;
-        geo:long           "000830W" .
-
-si2:7209  aemet:Province   "MURCIA" ;
-        aemet:indsinop     "08426" ;
-        aemet:stationName  "LORCA" ;
-        geo:alt            "312" ;
-        geo:lat            "373917N" ;
-        geo:long           "014114W" .
-
-si2:3338  aemet:Province   "MADRID" ;
-        aemet:indsinop     "08212" ;
-        aemet:stationName  "ROBLEDO DE CHAVELA" ;
-        geo:alt            "790" ;
-        geo:lat            "402540N" ;
-        geo:long           "041500W" .
-
-si2:4452  aemet:Province   "BADAJOZ" ;
-        aemet:indsinop     "08330" ;
-        aemet:stationName  "BADAJOZ AEROPUERTO" ;
-        geo:alt            "185" ;
-        geo:lat            "385300N" ;
-        geo:long           "064850W" .
-
-si2:9434P  aemet:Province  "ZARAGOZA" ;
-        aemet:indsinop     "08159" ;
-        aemet:stationName  "ZARAGOZA, VALDESPARTERA" ;
-        geo:alt            "254" ;
-        geo:lat            "413715N" ;
-        geo:long           "005606W" .
-
-si2:C459Z  aemet:Province  "STA. CRUZ DE TENERIFE" ;
-        aemet:indsinop     "60012" ;
-        aemet:stationName  "PUERTO DE LA CRUZ" ;
-        geo:alt            "25" ;
-        geo:lat            "282505N" ;
-        geo:long           "163253W" .
-
-si2:1735X  aemet:Province  "OURENSE" ;
-        aemet:indsinop     "08050" ;
-        aemet:stationName  "XINZO DE LIMIA" ;
-        geo:alt            "616" ;
-        geo:lat            "420445N" ;
-        geo:long           "074401W" .
-
-si2:9263X  aemet:Province  "NAVARRA" ;
-        aemet:indsinop     "08089" ;
-        aemet:stationName  "ARANGUREN, ILUNDAIN  " ;
-        geo:alt            "572" ;
-        geo:lat            "424634N" ;
-        geo:long           "013157W" .
-
-si2:B346X  aemet:Province  "ILLES BALEARS" ;
-        aemet:indsinop     "08310" ;
-        aemet:stationName  "PORRERES" ;
-        geo:alt            "120" ;
-        geo:lat            "393118N" ;
-        geo:long           "030109E" .
-
-si2:9771  aemet:Province   "LLEIDA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "LLEIDA, OBSERVATORIO" ;
-        geo:alt            "199" ;
-        geo:lat            "413702N" ;
-        geo:long           "003716E" .
-
-si2:C139E  aemet:Province  "STA. CRUZ DE TENERIFE" ;
-        aemet:indsinop     "60005" ;
-        aemet:stationName  "LA PALMA AEROPUERTO" ;
-        geo:alt            "33" ;
-        geo:lat            "283759N" ;
-        geo:long           "174518W" .
-
-si2:2916A  aemet:Province  "SALAMANCA" ;
-        aemet:indsinop     "08129" ;
-        aemet:stationName  "VITIGUDINO" ;
-        geo:alt            "769" ;
-        geo:lat            "410041N" ;
-        geo:long           "062616W" .
-
-si2:2630X  aemet:Province  "LEON" ;
-        aemet:indsinop     "08057" ;
-        aemet:stationName  "PUERTO DE SAN ISIDRO" ;
-        geo:alt            "1510" ;
-        geo:lat            "430344N" ;
-        geo:long           "052237W" .
-
-si2:6058I  aemet:Province  "MALAGA" ;
-        aemet:indsinop     "08463" ;
-        aemet:stationName  "ESTEPONA" ;
-        geo:alt            "11" ;
-        geo:lat            "362501N" ;
-        geo:long           "050918W" .
-
-si2:1041A  aemet:Province  "GIPUZKOA" ;
-        aemet:indsinop     "08026" ;
-        aemet:stationName  "ZUMAIA" ;
-        geo:alt            "28" ;
-        geo:lat            "431808N" ;
-        geo:long           "021504W" .
-
-si2:7145D  aemet:Province  "MURCIA" ;
-        aemet:indsinop     "08363" ;
-        aemet:stationName  "CIEZA" ;
-        geo:alt            "265" ;
-        geo:lat            "381358N" ;
-        geo:long           "012250W" .
-
-si2:5000C  aemet:Province  "CEUTA" ;
-        aemet:indsinop     "60320" ;
-        aemet:stationName  "CEUTA" ;
-        geo:alt            "87" ;
-        geo:lat            "355319N" ;
-        geo:long           "052049W" .
-
-si2:B434X  aemet:Province  "ILLES BALEARS" ;
-        aemet:indsinop     "08309" ;
-        aemet:stationName  "PORTOCOLOM  " ;
-        geo:alt            "17" ;
-        geo:lat            "392452N" ;
-        geo:long           "031618E" .
-
-si2:B248  aemet:Province   "ILLES BALEARS" ;
-        aemet:indsinop     "08303" ;
-        aemet:stationName  "SIERRA DE ALFABIA, BUNYOLA" ;
-        geo:alt            "1030" ;
-        geo:lat            "394406N" ;
-        geo:long           "024247E" .
-
-si2:5181D  aemet:Province  "JAEN" ;
-        aemet:indsinop     "08352" ;
-        aemet:stationName  "ARROYO DEL OJANCO" ;
-        geo:alt            "580" ;
-        geo:lat            "381853N" ;
-        geo:long           "025323W" .
-
-si2:3196  aemet:Province   "MADRID" ;
-        aemet:indsinop     "08223" ;
-        aemet:stationName  "MADRID, CUATRO VIENTOS" ;
-        geo:alt            "690" ;
-        geo:lat            "402232N" ;
-        geo:long           "034710W" .
-
-si2:3175  aemet:Province   "MADRID" ;
-        aemet:indsinop     "08227" ;
-        aemet:stationName  "TORREJÓN DE ARDOZ" ;
-        geo:alt            "607" ;
-        geo:lat            "402919N" ;
-        geo:long           "032637W" .
-
-si2:9111  aemet:Province   "BURGOS" ;
-        aemet:indsinop     "08077" ;
-        aemet:stationName  "BELORADO" ;
-        geo:alt            "820" ;
-        geo:lat            "422516N" ;
-        geo:long           "031013W" .
-
-si2:3111D  aemet:Province  "MADRID" ;
-        aemet:indsinop     "08145" ;
-        aemet:stationName  "SOMOSIERRA" ;
-        geo:alt            "1450" ;
-        geo:lat            "410808N" ;
-        geo:long           "033449W" .
-
-si2:8325X  aemet:Province  "VALENCIA" ;
-        aemet:indsinop     "08287" ;
-        aemet:stationName  "POLINYÀ DE XÚQUER" ;
-        geo:alt            "12" ;
-        geo:lat            "391105N" ;
-        geo:long           "002219W" .
-
-si2:2465A  aemet:Province  "SEGOVIA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "SEGOVIA, INSTITUTO" ;
-        geo:alt            "990" ;
-        geo:lat            "405648N" ;
-        geo:long           "040657W" .
-
-si2:9569A  aemet:Province  "TERUEL" ;
-        aemet:indsinop     "08166" ;
-        aemet:stationName  "CALANDA" ;
-        geo:alt            "466" ;
-        geo:lat            "405648N" ;
-        geo:long           "001416W" .
-
-si2:9283X  aemet:Province  "NAVARRA" ;
-        aemet:indsinop     "08153" ;
-        aemet:stationName  "CADREITA" ;
-        geo:alt            "268" ;
-        geo:lat            "421225N" ;
-        geo:long           "014241W" .
-
-si2:8489X  aemet:Province  "CASTELLON" ;
-        aemet:indsinop     "08241" ;
-        aemet:stationName  "VILLAFRANCA DEL CID/VILLAFRANCA" ;
-        geo:alt            "1131" ;
-        geo:lat            "402600N" ;
-        geo:long           "001521W" .
-
-si2:6268X  aemet:Province  "GRANADA" ;
-        aemet:indsinop     "08485" ;
-        aemet:stationName  "MOTRIL" ;
-        geo:alt            "12" ;
-        geo:lat            "364322N" ;
-        geo:long           "033149W" .
-
-si2:9019B  aemet:Province  "CANTABRIA" ;
-        aemet:indsinop     "08033" ;
-        aemet:stationName  "VALDERREDIBLE, POLIENTES   " ;
-        geo:alt            "720" ;
-        geo:lat            "424823N" ;
-        geo:long           "035602W" .
-
-si2:1690B  aemet:Province  "OURENSE" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "OURENSE,INSTITUTO" ;
-        geo:alt            "148" ;
-        geo:lat            "421956N" ;
-        geo:long           "075152W" .
-
-si2:0367  aemet:Province   "GIRONA" ;
-        aemet:indsinop     "08184" ;
-        aemet:stationName  "GIRONA AEROPUERTO" ;
-        geo:alt            "143" ;
-        geo:lat            "415442N" ;
-        geo:long           "024548E" .
-
-si2:9784P  aemet:Province  "HUESCA" ;
-        aemet:indsinop     "08103" ;
-        aemet:stationName  "BIELSA" ;
-        geo:alt            "990" ;
-        geo:lat            "423748N" ;
-        geo:long           "001329E" .
-
-si2:2737E  aemet:Province  "LEON" ;
-        aemet:indsinop     "08123" ;
-        aemet:stationName  "LAGUNAS DE SOMOZA" ;
-        geo:alt            "1020" ;
-        geo:lat            "422239N" ;
-        geo:long           "061148W" .
-
-si2:3434X  aemet:Province  "CACERES" ;
-        aemet:indsinop     "08254" ;
-        aemet:stationName  "NAVALMORAL DE LA MATA" ;
-        geo:alt            "269" ;
-        geo:lat            "395645N" ;
-        geo:long           "053457W" .
-
-si2:6293X  aemet:Province  "ALMERIA" ;
-        aemet:indsinop     "08492" ;
-        aemet:stationName  "ROQUETAS DE MAR" ;
-        geo:alt            "3" ;
-        geo:lat            "364113N" ;
-        geo:long           "024206W" .
-
-si2:0229I  aemet:Province  "BARCELONA" ;
-        aemet:indsinop     "08192" ;
-        aemet:stationName  "SABADELL AEROPUERTO" ;
-        geo:alt            "146" ;
-        geo:lat            "413125N" ;
-        geo:long           "020611E" .
-
-si2:0002I  aemet:Province  "TARRAGONA" ;
-        aemet:indsinop     "08169" ;
-        aemet:stationName  "VANDELLÒS  " ;
-        geo:alt            "32" ;
-        geo:lat            "405729N" ;
-        geo:long           "005217E" .
-
-si2:5270B  aemet:Province  "JAEN" ;
-        aemet:indsinop     "08417" ;
-        aemet:stationName  "JAÉN" ;
-        geo:alt            "580" ;
-        geo:lat            "374639N" ;
-        geo:long           "034832W" .
-
-si2:4560Y  aemet:Province  "HUELVA" ;
-        aemet:indsinop     "08380" ;
-        aemet:stationName  "ALAJAR" ;
-        geo:alt            "572" ;
-        geo:lat            "375207N" ;
-        geo:long           "064030W" .
-
-si2:3194U  aemet:Province  "MADRID" ;
-        aemet:indsinop     "08220" ;
-        aemet:stationName  "MADRID, CIUDAD UNIVERSITARIA" ;
-        geo:alt            "664" ;
-        geo:lat            "402706N" ;
-        geo:long           "034327W" .
-
-si2:C839I  aemet:Province  "LAS PALMAS" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "TEGUISE" ;
-        geo:alt            "10" ;
-        geo:lat            "291355N" ;
-        geo:long           "133007W" .
-
-si2:5972X  aemet:Province  "CADIZ" ;
-        aemet:indsinop     "08453" ;
-        aemet:stationName  "SAN FERNANDO" ;
-        geo:alt            "28" ;
-        geo:lat            "362756N" ;
-        geo:long           "061220W" .
-
-si2:8414A  aemet:Province  "VALENCIA" ;
-        aemet:indsinop     "08284" ;
-        aemet:stationName  "VALENCIA AEROPUERTO" ;
-        geo:alt            "56" ;
-        geo:lat            "392906N" ;
-        geo:long           "002829W" .
-
-si2:5530E  aemet:Province  "GRANADA" ;
-        aemet:indsinop     "08419" ;
-        aemet:stationName  "GRANADA AEROPUERTO" ;
-        geo:alt            "567" ;
-        geo:lat            "371123N" ;
-        geo:long           "034722W" .
-
-si2:8050X  aemet:Province  "ALICANTE" ;
-        aemet:indsinop     "08370" ;
-        aemet:stationName  "JÁVEA/ XÀBIA" ;
-        geo:alt            "15" ;
-        geo:lat            "384701N" ;
-        geo:long           "001004E" .
-
-si2:3298X  aemet:Province  "TOLEDO" ;
-        aemet:indsinop     "08270" ;
-        aemet:stationName  "SAN PABLO DE LOS MONTES" ;
-        geo:alt            "917" ;
-        geo:lat            "393249N" ;
-        geo:long           "042102W" .
-
-si2:1183X  aemet:Province  "ASTURIAS" ;
-        aemet:indsinop     "08016" ;
-        aemet:stationName  "LLANES" ;
-        geo:alt            "10" ;
-        geo:lat            "432513N" ;
-        geo:long           "044453W" .
-
-si2:1475X  aemet:Province  "A CORUÑA" ;
-        aemet:indsinop     "08041" ;
-        aemet:stationName  "SANTIAGO DE COMPOSTELA" ;
-        geo:alt            "240" ;
-        geo:lat            "425234N" ;
-        geo:long           "083321W" .
-
-si2:4121  aemet:Province   "CIUDAD REAL" ;
-        aemet:indsinop     "08348" ;
-        aemet:stationName  "CIUDAD REAL" ;
-        geo:alt            "628" ;
-        geo:lat            "385921N" ;
-        geo:long           "035513W" .
-
-si2:5860E  aemet:Province  "HUELVA" ;
-        aemet:indsinop     "08384" ;
-        aemet:stationName  "MOGUER, EL ARENOSILLO" ;
-        geo:alt            "41" ;
-        geo:lat            "370553N" ;
-        geo:long           "064417W" .
-
-si2:C029O  aemet:Province  "LAS PALMAS" ;
-        aemet:indsinop     "60040" ;
-        aemet:stationName  "LANZAROTE AEROPUERTO" ;
-        geo:alt            "14" ;
-        geo:lat            "285707N" ;
-        geo:long           "133601W" .
-
-si2:4605  aemet:Province   "HUELVA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "HUELVA" ;
-        geo:alt            "17" ;
-        geo:lat            "371524N" ;
-        geo:long           "065659W" .
-
-si2:6172O  aemet:Province  "MALAGA" ;
-        aemet:indsinop     "08479" ;
-        aemet:stationName  "MÁLAGA, PUERTO" ;
-        geo:alt            "25" ;
-        geo:lat            "364300N" ;
-        geo:long           "042511W" .
-
-si2:9390  aemet:Province   "ZARAGOZA" ;
-        aemet:indsinop     "08157" ;
-        aemet:stationName  "DAROCA" ;
-        geo:alt            "779" ;
-        geo:lat            "410652N" ;
-        geo:long           "012436W" .
-
-si2:2661  aemet:Province   "LEON" ;
-        aemet:indsinop     "08055" ;
-        aemet:stationName  "LEÓN, VIRGEN DEL CAMINO" ;
-        geo:alt            "912" ;
-        geo:lat            "423518N" ;
-        geo:long           "053904W" .
-
-si2:2298  aemet:Province   "BURGOS" ;
-        aemet:indsinop     "08149" ;
-        aemet:stationName  "PALACIOS DE LA SIERRA" ;
-        geo:alt            "1080" ;
-        geo:lat            "415735N" ;
-        geo:long           "030754W" .
-
-si2:1505  aemet:Province   "LUGO" ;
-        aemet:indsinop     "08008" ;
-        aemet:stationName  "LUGO AEROPUERTO" ;
-        geo:alt            "445" ;
-        geo:lat            "430641N" ;
-        geo:long           "072727W" .
-
-si2:3391  aemet:Province   "AVILA" ;
-        aemet:indsinop     "08208" ;
-        aemet:stationName  "SOTILLO DE LA ADRADA" ;
-        geo:alt            "630" ;
-        geo:lat            "401719N" ;
-        geo:long           "043527W" .
-
-si2:0149X  aemet:Province  "BARCELONA" ;
-        aemet:indsinop     "08174" ;
-        aemet:stationName  "MANRESA" ;
-        geo:alt            "291" ;
-        geo:lat            "414312N" ;
-        geo:long           "015025E" .
-
-si2:9619  aemet:Province   "LLEIDA" ;
-        aemet:indsinop     "08115" ;
-        aemet:stationName  "LA SEU D'URGELL" ;
-        geo:alt            "677" ;
-        geo:lat            "422117N" ;
-        geo:long           "012747E" .
-
-si2:5995B  aemet:Province  "CADIZ" ;
-        aemet:indsinop     "08457" ;
-        aemet:stationName  "VEJER DE LA FRONTERA" ;
-        geo:alt            "186" ;
-        geo:lat            "361444N" ;
-        geo:long           "055754W" .
-
-si2:5612B  aemet:Province  "SEVILLA" ;
-        aemet:indsinop     "08399" ;
-        aemet:stationName  "LA RODA DE ANDALUCÍA" ;
-        geo:alt            "410" ;
-        geo:lat            "371140N" ;
-        geo:long           "044612W" .
-
-si2:6155A  aemet:Province  "MALAGA" ;
-        aemet:indsinop     "08482" ;
-        aemet:stationName  "MÁLAGA AEROPUERTO" ;
-        geo:alt            "5" ;
-        geo:lat            "363958N" ;
-        geo:long           "042856W" .
-
-si2:5514  aemet:Province   "GRANADA" ;
-        aemet:indsinop     "08420" ;
-        aemet:stationName  "GRANADA BASE AÉREA" ;
-        geo:alt            "687" ;
-        geo:lat            "370814N" ;
-        geo:long           "033753W" .
-
-si2:C249I  aemet:Province  "LAS PALMAS" ;
-        aemet:indsinop     "60035" ;
-        aemet:stationName  "FUERTEVENTURA AEROPUERTO" ;
-        geo:alt            "25" ;
-        geo:lat            "282641N" ;
-        geo:long           "135147W" .
-
-si2:1210X  aemet:Province  "ASTURIAS" ;
-        aemet:indsinop     "08012" ;
-        aemet:stationName  "CABO PEÑAS" ;
-        geo:alt            "100" ;
-        geo:lat            "433921N" ;
-        geo:long           "055055W" .
-
-si2:3094B  aemet:Province  "CUENCA" ;
-        aemet:indsinop     "08277" ;
-        aemet:stationName  "TARANCÓN" ;
-        geo:alt            "808" ;
-        geo:lat            "400041N" ;
-        geo:long           "030117W" .
-
-si2:1484  aemet:Province   "PONTEVEDRA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "PONTEVEDRA, INSTITUTO" ;
-        geo:alt            "19" ;
-        geo:lat            "422550N" ;
-        geo:long           "083850W" .
-
-si2:9990X  aemet:Province  "LLEIDA" ;
-        aemet:indsinop     "08107" ;
-        aemet:stationName  "NAUT ARAN, ARTIES " ;
-        geo:alt            "1161" ;
-        geo:lat            "424201N" ;
-        geo:long           "005237E" .
-
-si2:4220X  aemet:Province  "CIUDAD REAL" ;
-        aemet:indsinop     "08271" ;
-        aemet:stationName  "PUEBLA DE DON RODRIGO" ;
-        geo:alt            "485" ;
-        geo:lat            "390519N" ;
-        geo:long           "043659W" .
-
-si2:3260B  aemet:Province  "TOLEDO" ;
-        aemet:indsinop     "08272" ;
-        aemet:stationName  "TOLEDO" ;
-        geo:alt            "515" ;
-        geo:lat            "395305N" ;
-        geo:long           "040243W" .
-
-si2:7228  aemet:Province   "MURCIA" ;
-        aemet:indsinop     "08429" ;
-        aemet:stationName  "ALCANTARILLA, BASE AÉREA" ;
-        geo:alt            "75" ;
-        geo:lat            "375728N" ;
-        geo:long           "011343W" .
-
-si2:C449C  aemet:Province  "STA. CRUZ DE TENERIFE" ;
-        aemet:indsinop     "60020" ;
-        aemet:stationName  "STA.CRUZ DE TENERIFE" ;
-        geo:alt            "35" ;
-        geo:lat            "282748N" ;
-        geo:long           "161519W" .
-
-si2:2030  aemet:Province   "SORIA" ;
-        aemet:indsinop     "08148" ;
-        aemet:stationName  "SORIA" ;
-        geo:alt            "1082" ;
-        geo:lat            "414630N" ;
-        geo:long           "022859W" .
-
-si2:8309X  aemet:Province  "VALENCIA" ;
-        aemet:indsinop     "08281" ;
-        aemet:stationName  "UTIEL" ;
-        geo:alt            "758" ;
-        geo:lat            "393432N" ;
-        geo:long           "011441W" .
-
-si2:1400  aemet:Province   "A CORUÑA" ;
-        aemet:indsinop     "08040" ;
-        aemet:stationName  "FISTERRA" ;
-        geo:alt            "230" ;
-        geo:lat            "425529N" ;
-        geo:long           "091729W" .
-
-si2:1208  aemet:Province   "ASTURIAS" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "GIJÓN" ;
-        geo:alt            "3" ;
-        geo:lat            "433220N" ;
-        geo:long           "053815W" .
-
-si2:9051  aemet:Province   "BURGOS" ;
-        aemet:indsinop     "08063" ;
-        aemet:stationName  "MEDINA DE POMAR" ;
-        geo:alt            "580" ;
-        geo:lat            "425512N" ;
-        geo:long           "032858W" .
-
-si2:9981A  aemet:Province  "TARRAGONA" ;
-        aemet:indsinop     "08238" ;
-        aemet:stationName  "TORTOSA" ;
-        geo:alt            "50" ;
-        geo:lat            "404913N" ;
-        geo:long           "002936E" .
-
-si2:1542  aemet:Province   "ASTURIAS" ;
-        aemet:indsinop     "08052" ;
-        aemet:stationName  "PUERTO DE LEITARIEGOS" ;
-        geo:alt            "1530" ;
-        geo:lat            "425939N" ;
-        geo:long           "062451W" .
-
-si2:4147X  aemet:Province  "CIUDAD REAL" ;
-        aemet:indsinop     "08351" ;
-        aemet:stationName  "VALDEPEÑAS" ;
-        geo:alt            "700" ;
-        geo:lat            "384502N" ;
-        geo:long           "032329W" .
-
-si2:1059X  aemet:Province  "BIZKAIA" ;
-        aemet:indsinop     "08059" ;
-        aemet:stationName  "PUNTA GALEA" ;
-        geo:alt            "90" ;
-        geo:lat            "432230N" ;
-        geo:long           "030118W" .
-
-si2:0255B  aemet:Province  "BARCELONA" ;
-        aemet:indsinop     "08188" ;
-        aemet:stationName  "SANTA SUSANNA" ;
-        geo:alt            "40" ;
-        geo:lat            "413903N" ;
-        geo:long           "024149E" .
-
-si2:0200E  aemet:Province  "BARCELONA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "BARCELONA, FABRA" ;
-        geo:alt            "408" ;
-        geo:lat            "412506N" ;
-        geo:long           "020727E" .
-
-si2:5000A  aemet:Province  "CEUTA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "CEUTA, MONTE HACHO" ;
-        geo:alt            "200" ;
-        geo:lat            "355344N" ;
-        geo:long           "051732W" .
-
-si2:1057B  aemet:Province  "BIZKAIA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "MACHICHACO" ;
-        geo:alt            "93" ;
-        geo:lat            "432714N" ;
-        geo:long           "024510W" .
-
-si2:2614  aemet:Province   "ZAMORA" ;
-        aemet:indsinop     "08130" ;
-        aemet:stationName  "ZAMORA" ;
-        geo:alt            "656" ;
-        geo:lat            "413056N" ;
-        geo:long           "054407W" .
-
-si2:2422  aemet:Province   "VALLADOLID" ;
-        aemet:indsinop     "08141" ;
-        aemet:stationName  "VALLADOLID" ;
-        geo:alt            "735" ;
-        geo:lat            "413827N" ;
-        geo:long           "044516W" .
-
-si2:2401  aemet:Province   "PALENCIA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "PALENCIA, OBSERVATORIO" ;
-        geo:alt            "750" ;
-        geo:lat            "420018N" ;
-        geo:long           "043145W" .
-
-si2:B893  aemet:Province   "ILLES BALEARS" ;
-        aemet:indsinop     "08314" ;
-        aemet:stationName  "MENORCA, AEROPUERTO" ;
-        geo:alt            "91" ;
-        geo:lat            "395117N" ;
-        geo:long           "041256E" .
-
-si2:0016A  aemet:Province  "TARRAGONA" ;
-        aemet:indsinop     "08175" ;
-        aemet:stationName  "REUS AEROPUERTO" ;
-        geo:alt            "71" ;
-        geo:lat            "410842N" ;
-        geo:long           "010949E" .
-
-si2:C329Z  aemet:Province  "STA. CRUZ DE TENERIFE" ;
-        aemet:indsinop     "60008" ;
-        aemet:stationName  "SAN SEBASTIÁN DE LA GOMERA" ;
-        geo:alt            "15" ;
-        geo:lat            "280523N" ;
-        geo:long           "170641W" .
-
-si2:2235U  aemet:Province  "PALENCIA" ;
-        aemet:indsinop     "08058" ;
-        aemet:stationName  "CERVERA DE PISUERGA" ;
-        geo:alt            "1140" ;
-        geo:lat            "425214N" ;
-        geo:long           "043112W" .
-
-si2:9585  aemet:Province   "GIRONA" ;
-        aemet:indsinop     "08117" ;
-        aemet:stationName  "LA MOLINA" ;
-        geo:alt            "1703" ;
-        geo:lat            "421957N" ;
-        geo:long           "015622E" .
-
-si2:5582A  aemet:Province  "GRANADA" ;
-        aemet:indsinop     "08414" ;
-        aemet:stationName  "LOJA" ;
-        geo:alt            "594" ;
-        geo:lat            "370940N" ;
-        geo:long           "040910W" .
-
-si2:9898  aemet:Province   "HUESCA" ;
-        aemet:indsinop     "08094" ;
-        aemet:stationName  "HUESCA AEROPUERTO" ;
-        geo:alt            "546" ;
-        geo:lat            "420504N" ;
-        geo:long           "001932W" .
-
-si2:9201K  aemet:Province  "HUESCA" ;
-        aemet:indsinop     "08091" ;
-        aemet:stationName  "JACA" ;
-        geo:alt            "823" ;
-        geo:lat            "423444N" ;
-        geo:long           "003249W" .
-
-si2:4549Y  aemet:Province  "HUELVA" ;
-        aemet:indsinop     "08381" ;
-        aemet:stationName  "AYAMONTE" ;
-        geo:alt            "2" ;
-        geo:lat            "371141N" ;
-        geo:long           "072342W" .
-
-si2:5246  aemet:Province   "JAEN" ;
-        aemet:indsinop     "08350" ;
-        aemet:stationName  "SANTA ELENA" ;
-        geo:alt            "770" ;
-        geo:lat            "382040N" ;
-        geo:long           "033207W" .
-
-si2:5427X  aemet:Province  "CORDOBA" ;
-        aemet:indsinop     "08412" ;
-        aemet:stationName  "DOÑA MENCÍA" ;
-        geo:alt            "650" ;
-        geo:lat            "373322N" ;
-        geo:long           "042114W" .
-
-si2:6381  aemet:Province   "ALMERIA" ;
-        aemet:indsinop     "08490" ;
-        aemet:stationName  "ALBORÁN" ;
-        geo:alt            "15" ;
-        geo:lat            "355618N" ;
-        geo:long           "030210W" .
-
-si2:2811A  aemet:Province  "AVILA" ;
-        aemet:indsinop     "08206" ;
-        aemet:stationName  "NAVARREDONDA DE GREDOS" ;
-        geo:alt            "1525" ;
-        geo:lat            "402102N" ;
-        geo:long           "050835W" .
-
-si2:3526X  aemet:Province  "CACERES" ;
-        aemet:indsinop     "08251" ;
-        aemet:stationName  "CORIA" ;
-        geo:alt            "313" ;
-        geo:lat            "400013N" ;
-        geo:long           "063327W" .
-
-si2:3463X  aemet:Province  "CACERES" ;
-        aemet:indsinop     "08263" ;
-        aemet:stationName  "TRUJILLO" ;
-        geo:alt            "503" ;
-        geo:lat            "392857N" ;
-        geo:long           "055115W" .
-
-si2:1387  aemet:Province   "A CORUÑA" ;
-        aemet:indsinop     "08001" ;
-        aemet:stationName  "A CORUÑA" ;
-        geo:alt            "58" ;
-        geo:lat            "432157N" ;
-        geo:long           "082517W" .
-
-si2:9001D  aemet:Province  "CANTABRIA" ;
-        aemet:indsinop     "08032" ;
-        aemet:stationName  "REINOSA" ;
-        geo:alt            "870" ;
-        geo:lat            "425931N" ;
-        geo:long           "040938W" .
-
-si2:1484C  aemet:Province  "PONTEVEDRA" ;
-        aemet:indsinop     "08044" ;
-        aemet:stationName  "PONTEVEDRA" ;
-        geo:alt            "108" ;
-        geo:lat            "422618N" ;
-        geo:long           "083657W" .
-
-si2:7247X  aemet:Province  "ALICANTE" ;
-        aemet:indsinop     "08357" ;
-        aemet:stationName  "PINOSO " ;
-        geo:alt            "575" ;
-        geo:lat            "382359N" ;
-        geo:long           "010217W" .
-
-si2:8416  aemet:Province   "VALENCIA" ;
-        aemet:indsinop     "08285" ;
-        aemet:stationName  "VALÈNCIA" ;
-        geo:alt            "11" ;
-        geo:lat            "392850N" ;
-        geo:long           "002159W" .
-
-si2:2374X  aemet:Province  "PALENCIA" ;
-        aemet:indsinop     "08068" ;
-        aemet:stationName  "CARRIÓN DE LOS CONDES" ;
-        geo:alt            "830" ;
-        geo:lat            "422103N" ;
-        geo:long           "043702W" .
-
-si2:C659M  aemet:Province  "LAS PALMAS" ;
-        aemet:indsinop     "60032" ;
-        aemet:stationName  "LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA" ;
-        geo:alt            "15" ;
-        geo:lat            "280647N" ;
-        geo:long           "152517W" .
-
-si2:1111  aemet:Province   "CANTABRIA" ;
-        aemet:indsinop     "08023" ;
-        aemet:stationName  "SANTANDER" ;
-        geo:alt            "52" ;
-        geo:lat            "432928N" ;
-        geo:long           "034802W" .
-
-si2:1111X  aemet:Province  "CANTABRIA" ;
-        aemet:indsinop     "08023" ;
-        aemet:stationName  "SANTANDER" ;
-        geo:alt            "52" ;
-        geo:lat            "432928N" ;
-        geo:long           "034802W" .
-
-si2:1082  aemet:Province   "BIZKAIA" ;
-        aemet:indsinop     "08025" ;
-        aemet:stationName  "BILBAO AEROPUERTO" ;
-        geo:alt            "42" ;
-        geo:lat            "431753N" ;
-        geo:long           "025423W" .
-
-si2:1014A  aemet:Province  "GIPUZKOA" ;
-        aemet:indsinop     "08029" ;
-        aemet:stationName  "SAN SEBASTIÁN AEROPUERTO" ;
-        geo:alt            "4" ;
-        geo:lat            "432125N" ;
-        geo:long           "014732W" .
-
-si2:9381I  aemet:Province  "TERUEL" ;
-        aemet:indsinop     "08233" ;
-        aemet:stationName  "CALAMOCHA" ;
-        geo:alt            "890" ;
-        geo:lat            "405534N" ;
-        geo:long           "011736W" .
-
-si2:4121C  aemet:Province  "CIUDAD REAL" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "CIUDAD REAL, INSTITUTO" ;
-        geo:alt            "627" ;
-        geo:lat            "385916N" ;
-        geo:long           "035545W" .
-
-si2:C689E  aemet:Province  "LAS PALMAS" ;
-        aemet:indsinop     "60037" ;
-        aemet:stationName  "MASPALOMAS" ;
-        geo:alt            "6" ;
-        geo:lat            "274409N" ;
-        geo:long           "153545W" .
-
-si2:9263D  aemet:Province  "NAVARRA" ;
-        aemet:indsinop     "08085" ;
-        aemet:stationName  "PAMPLONA AEROPUERTO" ;
-        geo:alt            "459" ;
-        geo:lat            "424637N" ;
-        geo:long           "013900W" .
-
-si2:6297  aemet:Province   "ALMERIA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "ALMERÍA" ;
-        geo:alt            "7" ;
-        geo:lat            "364952N" ;
-        geo:long           "022720W" .
-
-si2:9576C  aemet:Province  "ZARAGOZA" ;
-        aemet:indsinop     "08165" ;
-        aemet:stationName  "BUJARALOZ" ;
-        geo:alt            "357" ;
-        geo:lat            "413121N" ;
-        geo:long           "001028W" .
-
-si2:8368U  aemet:Province  "TERUEL" ;
-        aemet:indsinop     "08235" ;
-        aemet:stationName  "TERUEL" ;
-        geo:alt            "900" ;
-        geo:lat            "402102N" ;
-        geo:long           "010727W" .
-
-si2:1495  aemet:Province   "PONTEVEDRA" ;
-        aemet:indsinop     "08045" ;
-        aemet:stationName  "VIGO AEROPUERTO" ;
-        geo:alt            "261" ;
-        geo:lat            "421419N" ;
-        geo:long           "083726W" .
-
-si2:2400E  aemet:Province  "PALENCIA" ;
-        aemet:indsinop     "08072" ;
-        aemet:stationName  "AUTILLA DEL PINO" ;
-        geo:alt            "874" ;
-        geo:lat            "415944N" ;
-        geo:long           "043610W" .
-
-si2:7178I  aemet:Province  "MURCIA" ;
-        aemet:indsinop     "08430" ;
-        aemet:stationName  "MURCIA" ;
-        geo:alt            "61" ;
-        geo:lat            "380007N" ;
-        geo:long           "011015W" .
-
-si2:6000A  aemet:Province  "MELILLA" ;
-        aemet:indsinop     "60338" ;
-        aemet:stationName  "MELILLA" ;
-        geo:alt            "52" ;
-        geo:lat            "351635N" ;
-        geo:long           "025723W" .
-
-si2:B228  aemet:Province   "ILLES BALEARS" ;
-        aemet:indsinop     "08301" ;
-        aemet:stationName  "PALMA, PUERTO" ;
-        geo:alt            "3" ;
-        geo:lat            "393312N" ;
-        geo:long           "023731E" .
-
-si2:3013  aemet:Province   "GUADALAJARA" ;
-        aemet:indsinop     "08232" ;
-        aemet:stationName  "MOLINA DE ARAGÓN" ;
-        geo:alt            "1062" ;
-        geo:lat            "405030N" ;
-        geo:long           "015244W" .
-
-si2:8019  aemet:Province   "ALICANTE" ;
-        aemet:indsinop     "08360" ;
-        aemet:stationName  "ALICANTE-ELCHE AEROPUERTO" ;
-        geo:alt            "43" ;
-        geo:lat            "381658N" ;
-        geo:long           "003415W" .
-
-si2:4148  aemet:Province   "CIUDAD REAL" ;
-        aemet:indsinop     "08345" ;
-        aemet:stationName  "VISO DEL MARQUÉS" ;
-        geo:alt            "778" ;
-        geo:lat            "383105N" ;
-        geo:long           "033400W" .
-
-si2:3168C  aemet:Province  "GUADALAJARA" ;
-        aemet:indsinop     "08226" ;
-        aemet:stationName  "GUADALAJARA, EL SERRANILLO" ;
-        geo:alt            "639" ;
-        geo:lat            "403933N" ;
-        geo:long           "031024W" .
-
-si2:5911A  aemet:Province  "CADIZ" ;
-        aemet:indsinop     "08455" ;
-        aemet:stationName  "GRAZALEMA" ;
-        geo:alt            "913" ;
-        geo:lat            "364538N" ;
-        geo:long           "052227W" .
-
-si2:B691Y  aemet:Province  "ILLES BALEARS" ;
-        aemet:indsinop     "08312" ;
-        aemet:stationName  "SA POBLA" ;
-        geo:alt            "40" ;
-        geo:lat            "394457N" ;
-        geo:long           "030100E" .
-
-si2:4511C  aemet:Province  "BADAJOZ" ;
-        aemet:indsinop     "08337" ;
-        aemet:stationName  "JEREZ DE LOS CABALLEROS" ;
-        geo:alt            "381" ;
-        geo:lat            "381755N" ;
-        geo:long           "064554W" .
-
-si2:3469A  aemet:Province  "CACERES" ;
-        aemet:indsinop     "08261" ;
-        aemet:stationName  "CÁCERES" ;
-        geo:alt            "394" ;
-        geo:lat            "392817N" ;
-        geo:long           "062020W" .
-
-si2:7119B  aemet:Province  "MURCIA" ;
-        aemet:indsinop     "08365" ;
-        aemet:stationName  "CARAVACA DE LA CRUZ" ;
-        geo:alt            "643" ;
-        geo:lat            "380609N" ;
-        geo:long           "015238W" .
-
-si2:1221D  aemet:Province  "ASTURIAS" ;
-        aemet:indsinop     "08031" ;
-        aemet:stationName  "PUERTO DE PAJARES" ;
-        geo:alt            "1480" ;
-        geo:lat            "425843N" ;
-        geo:long           "054635W" .
-
-si2:1387E  aemet:Province  "A CORUÑA" ;
-        aemet:indsinop     "08002" ;
-        aemet:stationName  "A CORUÑA AEROPUERTO" ;
-        geo:alt            "98" ;
-        geo:lat            "431825N" ;
-        geo:long           "082219W" .
-
-si2:3576X  aemet:Province  "CACERES" ;
-        aemet:indsinop     "08260" ;
-        aemet:stationName  "VALENCIA DE ALCÁNTARA" ;
-        geo:alt            "444" ;
-        geo:lat            "392453N" ;
-        geo:long           "071352W" .
-
-si2:0076  aemet:Province   "BARCELONA" ;
-        aemet:indsinop     "08181" ;
-        aemet:stationName  "BARCELONA AEROPUERTO" ;
-        geo:alt            "4" ;
-        geo:lat            "411734N" ;
-        geo:long           "020412E" .
-
-si2:5704B  aemet:Province  "SEVILLA" ;
-        aemet:indsinop     "08392" ;
-        aemet:stationName  "CAZALLA DE LA SIERRA" ;
-        geo:alt            "550" ;
-        geo:lat            "375535N" ;
-        geo:long           "054611W" .
-
-si2:4090Y  aemet:Province  "CUENCA" ;
-        aemet:indsinop     "08256" ;
-        aemet:stationName  "SAN CLEMENTE" ;
-        geo:alt            "728" ;
-        geo:lat            "392500N" ;
-        geo:long           "022514W" .
-
-si2:B278  aemet:Province   "ILLES BALEARS" ;
-        aemet:indsinop     "08306" ;
-        aemet:stationName  "PALMA, AEROPUERTO" ;
-        geo:alt            "8" ;
-        geo:lat            "393339N" ;
-        geo:long           "024412E" .
-
-si2:3100B  aemet:Province  "MADRID" ;
-        aemet:indsinop     "08229" ;
-        aemet:stationName  "ARANJUEZ" ;
-        geo:alt            "540" ;
-        geo:lat            "400402N" ;
-        geo:long           "033246W" .
-
-si2:B954  aemet:Province   "ILLES BALEARS" ;
-        aemet:indsinop     "08373" ;
-        aemet:stationName  "IBIZA, AEROPUERTO" ;
-        geo:alt            "6" ;
-        geo:lat            "385235N" ;
-        geo:long           "012304E" .
-
-si2:C659H  aemet:Province  "LAS PALMAS" ;
-        aemet:indsinop     "60029" ;
-        aemet:stationName  "LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL" ;
-        geo:alt            "55" ;
-        geo:lat            "280523N" ;
-        geo:long           "152458W" .
-
-si2:5270  aemet:Province   "JAEN" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "JAÉN, INSTITUTO" ;
-        geo:alt            "510" ;
-        geo:lat            "374635N" ;
-        geo:long           "034720W" .
-
-si2:6032B  aemet:Province  "MALAGA" ;
-        aemet:indsinop     "08443" ;
-        aemet:stationName  "RONDA" ;
-        geo:alt            "766" ;
-        geo:lat            "364459N" ;
-        geo:long           "051006W" .
-
-si2:5796  aemet:Province   "SEVILLA" ;
-        aemet:indsinop     "08397" ;
-        aemet:stationName  "MORÓN DE LA FRONTERA" ;
-        geo:alt            "87" ;
-        geo:lat            "370952N" ;
-        geo:long           "053641W" .
-
-si2:C429I  aemet:Province  "STA. CRUZ DE TENERIFE" ;
-        aemet:indsinop     "60025" ;
-        aemet:stationName  "TENERIFE SUR AEROPUERTO" ;
-        geo:alt            "64" ;
-        geo:lat            "280249N" ;
-        geo:long           "163340W" .
-
-si2:9262  aemet:Province   "NAVARRA" ;
-        aemet:indsinop     "" ;
-        aemet:stationName  "PAMPLONA" ;
-        geo:alt            "450" ;
-        geo:lat            "424904N" ;
-        geo:long           "013818W" .
-
-si2:2867  aemet:Province   "SALAMANCA" ;
-        aemet:indsinop     "08202" ;
-        aemet:stationName  "SALAMANCA AEROPUERTO" ;
-        geo:alt            "790" ;
-        geo:lat            "405734N" ;
-        geo:long           "052954W" .
-
-si2:1014  aemet:Province   "GIPUZKOA" ;
-        aemet:indsinop     "08029" ;
-        aemet:stationName  "HONDARRIBIA, MALKARROA" ;
-        geo:alt            "4" ;
-        geo:lat            "432125N" ;
-        geo:long           "014732W" .
-
-si2:3044X  aemet:Province  "CUENCA" ;
-        aemet:indsinop     "08230" ;
-        aemet:stationName  "CAÑIZARES" ;
-        geo:alt            "940" ;
-        geo:lat            "403149N" ;
-        geo:long           "020900W" .
-
-si2:C629X  aemet:Province  "LAS PALMAS" ;
-        aemet:indsinop     "60036" ;
-        aemet:stationName  "MOGÁN, PUERTO" ;
-        geo:alt            "10" ;
-        geo:lat            "274859N" ;
-        geo:long           "154551W" .
-
-si2:4244X  aemet:Province  "BADAJOZ" ;
-        aemet:indsinop     "08264" ;
-        aemet:stationName  "HERRERA DEL DUQUE" ;
-        geo:alt            "447" ;
-        geo:lat            "391010N" ;
-        geo:long           "050344W" .
-
-si2:2462  aemet:Province   "MADRID" ;
-        aemet:indsinop     "08215" ;
-        aemet:stationName  "PUERTO DE NAVACERRADA" ;
-        geo:alt            "1894" ;
-        geo:lat            "404735N" ;
-        geo:long           "040038W" .
-
-si2:7012C  aemet:Province  "MURCIA" ;
-        aemet:indsinop     "08434" ;
-        aemet:stationName  "CARTAGENA" ;
-        geo:alt            "17" ;
-        geo:lat            "373604N" ;
-        geo:long           "005916W" .
-
-si2:9170  aemet:Province   "LA RIOJA" ;
-        aemet:indsinop     "08084" ;
-        aemet:stationName  "LOGROÑO AEROPUERTO" ;
-        geo:alt            "353" ;
-        geo:lat            "422708N" ;
-        geo:long           "021952W" .
-
-si2:3200  aemet:Province   "MADRID" ;
-        aemet:indsinop     "08224" ;
-        aemet:stationName  "GETAFE" ;
-        geo:alt            "620" ;
-        geo:lat            "401758N" ;
-        geo:long           "034320W" .
-
-si2:2661B  aemet:Province  "LEON" ;
-        aemet:indsinop     "08055" ;
-        aemet:stationName  "LEÓN AEROPUERTO" ;
-        geo:alt            "912" ;
-        geo:lat            "423558N" ;
-        geo:long           "053837W" .
-
-si2:6205X  aemet:Province  "MALAGA" ;
-        aemet:indsinop     "08484" ;
-        aemet:stationName  "TORROX" ;
-        geo:alt            "3" ;
-        geo:lat            "364335N" ;
-        geo:long           "035726W" .
-
-si2:5783  aemet:Province   "SEVILLA" ;
-        aemet:indsinop     "08391" ;
-        aemet:stationName  "SEVILLA AEROPUERTO" ;
-        geo:alt            "34" ;
-        geo:lat            "372500N" ;
-        geo:long           "055245W" .
-
-si2:8500A  aemet:Province  "CASTELLON" ;
-        aemet:indsinop     "08286" ;
-        aemet:stationName  "CASTELLÓN - ALMASSORA" ;
-        geo:alt            "43" ;
-        geo:lat            "395726N" ;
-        geo:long           "000419W" .
-
-si2:7096B  aemet:Province  "ALBACETE" ;
-        aemet:indsinop     "08355" ;
-        aemet:stationName  "HELLÍN" ;
-        geo:alt            "605" ;
-        geo:lat            "383231N" ;
-        geo:long           "014211W" .
-
-si2:5047E  aemet:Province  "GRANADA" ;
-        aemet:indsinop     "08424" ;
-        aemet:stationName  "BAZA" ;
-        geo:alt            "785" ;
-        geo:lat            "373021N" ;
-        geo:long           "024406W" .
-
-si2:6367B  aemet:Province  "ALMERIA" ;
-        aemet:indsinop     "08428" ;
-        aemet:stationName  "HUERCAL OVERA" ;
-        geo:alt            "300" ;
-        geo:lat            "372326N" ;
-        geo:long           "015637W" .
-
-si2:3129  aemet:Province   "MADRID" ;
-        aemet:indsinop     "08221" ;
-        aemet:stationName  "MADRID AEROPUERTO" ;
-        geo:alt            "609" ;
-        geo:lat            "402800N" ;
-        geo:long           "033320W" .
-
-si2:9394X  aemet:Province  "ZARAGOZA" ;
-        aemet:indsinop     "08156" ;
-        aemet:stationName  "CALATAYUD" ;
-        geo:alt            "600" ;
-        geo:lat            "411952N" ;
-        geo:long           "013843W" .
-
-si2:3365A  aemet:Province  "TOLEDO" ;
-        aemet:indsinop     "08274" ;
-        aemet:stationName  "TALAVERA DE LA REINA" ;
-        geo:alt            "372" ;
-        geo:lat            "395731N" ;
-        geo:long           "045149W" .
-
-si2:5038X  aemet:Province  "JAEN" ;
-        aemet:indsinop     "08353" ;
-        aemet:stationName  "CAZORLA" ;
-        geo:alt            "813" ;
-        geo:lat            "375457N" ;
-        geo:long           "030014W" .
-
-si2:1249X  aemet:Province  "ASTURIAS" ;
-        aemet:indsinop     "08015" ;
-        aemet:stationName  "OVIEDO" ;
-        geo:alt            "336" ;
-        geo:lat            "432112N" ;
-        geo:long           "055227W" .
-
-si2:C229J  aemet:Province  "LAS PALMAS" ;
-        aemet:indsinop     "60034" ;
-        aemet:stationName  "PÁJARA" ;
-        geo:alt            "15" ;
-        geo:lat            "280257N" ;
-        geo:long           "142129W" .
+si2:5390Y  aemet:indsinop        "08346" ;
+        aemet:locatedInProvince  si2:Cordoba ;
+        aemet:stationName        "VILLANUEVA DE CÓRDOBA" ;
+        geo:alt                  "750" ;
+        geo:lat                  "381959N" ;
+        geo:long                 "043632W" .
+
+si2:1208H  aemet:indsinop        "08014" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "GIJÓN, PUERTO" ;
+        geo:alt                  "5" ;
+        geo:lat                  "433336N" ;
+        geo:long                 "054203W" .
+
+si2:6084X  aemet:indsinop        "08480" ;
+        aemet:locatedInProvince  si2:Malaga ;
+        aemet:stationName        "FUENGIROLA" ;
+        geo:alt                  "8" ;
+        geo:lat                  "363219N" ;
+        geo:long                 "043706W" .
+
+si2:B013X  aemet:indsinop        "08304" ;
+        aemet:locatedInProvince  si2:IllesBalears ;
+        aemet:stationName        "ESCORCA, LLUC" ;
+        geo:alt                  "490" ;
+        geo:lat                  "394924N" ;
+        geo:long                 "025309E" .
+
+si2:8058X  aemet:indsinop        "08282" ;
+        aemet:locatedInProvince  si2:Valencia ;
+        aemet:stationName        "OLIVA" ;
+        geo:alt                  "5" ;
+        geo:lat                  "385544N" ;
+        geo:long                 "000545W" .
+
+si2:9698U  aemet:indsinop        "08112" ;
+        aemet:locatedInProvince  si2:Lleida ;
+        aemet:stationName        "TALARN" ;
+        geo:alt                  "807" ;
+        geo:lat                  "421219N" ;
+        geo:long                 "005155E" .
+
+si2:3191E  aemet:indsinop        "08219" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "COLMENAR VIEJO" ;
+        geo:alt                  "1004" ;
+        geo:lat                  "404146N" ;
+        geo:long                 "034554W" .
+
+si2:1212E  aemet:indsinop        "08011" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "ASTURIAS AEROPUERTO" ;
+        geo:alt                  "127" ;
+        geo:lat                  "433401N" ;
+        geo:long                 "060239W" .
+
+si2:0252D  aemet:indsinop        "08186" ;
+        aemet:locatedInProvince  si2:Barcelona ;
+        aemet:stationName        "ARENYS DE MAR" ;
+        geo:alt                  "74" ;
+        geo:lat                  "413515N" ;
+        geo:long                 "023224E" .
+
+si2:1109  aemet:indsinop         "08021" ;
+        aemet:locatedInProvince  si2:Cantabria ;
+        aemet:stationName        "SANTANDER AEROPUERTO" ;
+        geo:alt                  "3" ;
+        geo:lat                  "432526N" ;
+        geo:long                 "034932W" .
+
+si2:5402  aemet:indsinop         "08410" ;
+        aemet:locatedInProvince  si2:Cordoba ;
+        aemet:stationName        "CÓRDOBA AEROPUERTO" ;
+        geo:alt                  "90" ;
+        geo:lat                  "375056N" ;
+        geo:long                 "045048W" .
+
+si2:4067  aemet:indsinop         "08273" ;
+        aemet:locatedInProvince  si2:Toledo ;
+        aemet:stationName        "MADRIDEJOS" ;
+        geo:alt                  "690" ;
+        geo:lat                  "392931N" ;
+        geo:long                 "033142W" .
+
+si2:1393  aemet:indsinop         "08006" ;
+        aemet:locatedInProvince  si2:ACoruña ;
+        aemet:stationName        "CABO VILAN" ;
+        geo:alt                  "50" ;
+        geo:lat                  "430938N" ;
+        geo:long                 "091239W" .
+
+si2:2870  aemet:indsinop         "08201" ;
+        aemet:locatedInProvince  si2:Salamanca ;
+        aemet:stationName        "SALAMANCA" ;
+        geo:alt                  "775" ;
+        geo:lat                  "405727N" ;
+        geo:long                 "053944W" .
+
+si2:2465  aemet:indsinop         "08213" ;
+        aemet:locatedInProvince  si2:Segovia ;
+        aemet:stationName        "SEGOVIA" ;
+        geo:alt                  "1005" ;
+        geo:lat                  "405643N" ;
+        geo:long                 "040735W" .
+
+si2:1351  aemet:indsinop         "08004" ;
+        aemet:locatedInProvince  si2:ACoruña ;
+        aemet:stationName        "ESTACA DE BARES" ;
+        geo:alt                  "80" ;
+        geo:lat                  "434710N" ;
+        geo:long                 "074105W" .
+
+si2:2491C  aemet:indsinop        "08205" ;
+        aemet:locatedInProvince  si2:Salamanca ;
+        aemet:stationName        "LA COVATILLA, ESTACIÓN DE ESQUÍ" ;
+        geo:alt                  "1960" ;
+        geo:lat                  "402118N" ;
+        geo:long                 "054124W" .
+
+si2:1283U  aemet:indsinop        "08010" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "CABO BUSTO" ;
+        geo:alt                  "60" ;
+        geo:lat                  "433409N" ;
+        geo:long                 "062812W" .
+
+si2:1159  aemet:indsinop         "08017" ;
+        aemet:locatedInProvince  si2:Cantabria ;
+        aemet:stationName        "SAN VICENTE DE LA BARQUERA" ;
+        geo:alt                  "38" ;
+        geo:lat                  "432336N" ;
+        geo:long                 "042332W" .
+
+si2:9294E  aemet:indsinop        "08087" ;
+        aemet:locatedInProvince  si2:Navarra ;
+        aemet:stationName        "BARDENAS REALES, BASE AÉREA " ;
+        geo:alt                  "295" ;
+        geo:lat                  "421155N" ;
+        geo:long                 "012831W" .
+
+si2:2444  aemet:indsinop         "08210" ;
+        aemet:locatedInProvince  si2:Avila ;
+        aemet:stationName        "ÁVILA" ;
+        geo:alt                  "1130" ;
+        geo:lat                  "403933N" ;
+        geo:long                 "044048W" .
+
+si2:1055B  aemet:indsinop        "08024" ;
+        aemet:locatedInProvince  si2:Bizkaia ;
+        aemet:stationName        "LEKEITIO" ;
+        geo:alt                  "12" ;
+        geo:lat                  "432237N" ;
+        geo:long                 "023037W" .
+
+si2:8178D  aemet:indsinop        "08279" ;
+        aemet:locatedInProvince  si2:Albacete ;
+        aemet:stationName        "ALBACETE" ;
+        geo:alt                  "674" ;
+        geo:lat                  "390020N" ;
+        geo:long                 "015144W" .
+
+si2:3195  aemet:indsinop         "08222" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "MADRID, RETIRO" ;
+        geo:alt                  "667" ;
+        geo:lat                  "402443N" ;
+        geo:long                 "034041W" .
+
+si2:3168A  aemet:indsinop        "" ;
+        aemet:locatedInProvince  si2:Guadalajara ;
+        aemet:stationName        "GUADALAJARA, INSTITUTO" ;
+        geo:alt                  "685" ;
+        geo:lat                  "403805N" ;
+        geo:long                 "031000W" .
+
+si2:1050J  aemet:indsinop        "08036" ;
+        aemet:locatedInProvince  si2:Gipuzkoa ;
+        aemet:stationName        "ELGOIBAR" ;
+        geo:alt                  "120" ;
+        geo:lat                  "431234N" ;
+        geo:long                 "022448W" .
+
+si2:0324A  aemet:indsinop        "08118" ;
+        aemet:locatedInProvince  si2:Girona ;
+        aemet:stationName        "RIPOLL" ;
+        geo:alt                  "675" ;
+        geo:lat                  "421129N" ;
+        geo:long                 "021146E" .
+
+si2:6106X  aemet:indsinop        "08413" ;
+        aemet:locatedInProvince  si2:Malaga ;
+        aemet:stationName        "ANTEQUERA" ;
+        geo:alt                  "408" ;
+        geo:lat                  "370146N" ;
+        geo:long                 "044454W" .
+
+si2:8501  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Castellon ;
+        aemet:stationName        "CASTELLÓN DE LA PLANA" ;
+        geo:alt                  "25" ;
+        geo:lat                  "395920N" ;
+        geo:long                 "000224W" .
+
+si2:2331  aemet:indsinop         "08075" ;
+        aemet:locatedInProvince  si2:Burgos ;
+        aemet:stationName        "BURGOS AEROPUERTO" ;
+        geo:alt                  "891" ;
+        geo:lat                  "422125N" ;
+        geo:long                 "033713W" .
+
+si2:1690A  aemet:indsinop        "08048" ;
+        aemet:locatedInProvince  si2:Ourense ;
+        aemet:stationName        "OURENSE" ;
+        geo:alt                  "143" ;
+        geo:lat                  "421931N" ;
+        geo:long                 "075135W" .
+
+si2:9208E  aemet:indsinop        "08095" ;
+        aemet:locatedInProvince  si2:Huesca ;
+        aemet:stationName        "ARAGÜÉS DEL PUERTO" ;
+        geo:alt                  "1040" ;
+        geo:lat                  "424232N" ;
+        geo:long                 "004023W" .
+
+si2:9771C  aemet:indsinop        "08171" ;
+        aemet:locatedInProvince  si2:Lleida ;
+        aemet:stationName        "LLEIDA" ;
+        geo:alt                  "185" ;
+        geo:lat                  "413734N" ;
+        geo:long                 "003553E" .
+
+si2:0201D  aemet:indsinop        "08180" ;
+        aemet:locatedInProvince  si2:Barcelona ;
+        aemet:stationName        "BARCELONA" ;
+        geo:alt                  "6" ;
+        geo:lat                  "412326N" ;
+        geo:long                 "021200E" .
+
+si2:3266A  aemet:indsinop        "08217" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "PUERTO ALTO DEL LEÓN" ;
+        geo:alt                  "1532" ;
+        geo:lat                  "404223N" ;
+        geo:long                 "040831W" .
+
+si2:2150H  aemet:indsinop        "08143" ;
+        aemet:locatedInProvince  si2:Segovia ;
+        aemet:stationName        "LA PINILLA, ESTACIÓN DE ESQUÍ" ;
+        geo:alt                  "1860" ;
+        geo:lat                  "411131N" ;
+        geo:long                 "032831W" .
+
+si2:8025  aemet:indsinop         "08359" ;
+        aemet:locatedInProvince  si2:Alicante ;
+        aemet:stationName        "ALICANTE/ALACANT" ;
+        geo:alt                  "81" ;
+        geo:lat                  "382221N" ;
+        geo:long                 "002939W" .
+
+si2:8177A  aemet:indsinop        "08278" ;
+        aemet:locatedInProvince  si2:Albacete ;
+        aemet:stationName        "CHINCHILLA" ;
+        geo:alt                  "880" ;
+        geo:lat                  "385609N" ;
+        geo:long                 "013936W" .
+
+si2:1207U  aemet:indsinop        "08014" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "GIJÓN, CAMPUS" ;
+        geo:alt                  "26" ;
+        geo:lat                  "433123N" ;
+        geo:long                 "053716W" .
+
+si2:4642E  aemet:indsinop        "08383" ;
+        aemet:locatedInProvince  si2:Huelva ;
+        aemet:stationName        "HUELVA, RONDA ESTE" ;
+        geo:alt                  "19" ;
+        geo:lat                  "371642N" ;
+        geo:long                 "065442W" .
+
+si2:C430E  aemet:indsinop        "60010" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "IZAÑA" ;
+        geo:alt                  "2371" ;
+        geo:lat                  "281832N" ;
+        geo:long                 "162958W" .
+
+si2:2503X  aemet:indsinop        "08142" ;
+        aemet:locatedInProvince  si2:Valladolid ;
+        aemet:stationName        "OLMEDO" ;
+        geo:alt                  "740" ;
+        geo:lat                  "411933N" ;
+        geo:long                 "044113W" .
+
+si2:9091O  aemet:indsinop        "08080" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "FORONDA-TXOKIZA" ;
+        geo:alt                  "513" ;
+        geo:lat                  "425255N" ;
+        geo:long                 "024406W" .
+
+si2:8096  aemet:indsinop         "08231" ;
+        aemet:locatedInProvince  si2:Cuenca ;
+        aemet:stationName        "CUENCA" ;
+        geo:alt                  "948" ;
+        geo:lat                  "400402N" ;
+        geo:long                 "020755W" .
+
+si2:3519X  aemet:indsinop        "08252" ;
+        aemet:locatedInProvince  si2:Caceres ;
+        aemet:stationName        "PLASENCIA" ;
+        geo:alt                  "415" ;
+        geo:lat                  "400235N" ;
+        geo:long                 "060509W" .
+
+si2:9381  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Teruel ;
+        aemet:stationName        "CALAMOCHA, AERÓDROMO" ;
+        geo:alt                  "932" ;
+        geo:lat                  "405154N" ;
+        geo:long                 "011818W" .
+
+si2:7031X  aemet:indsinop        "08433" ;
+        aemet:locatedInProvince  si2:Murcia ;
+        aemet:stationName        "SAN JAVIER AEROPUERTO" ;
+        geo:alt                  "4" ;
+        geo:lat                  "374642N" ;
+        geo:long                 "004821W" .
+
+si2:C929I  aemet:indsinop        "60001" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "HIERRO AEROPUERTO" ;
+        geo:alt                  "32" ;
+        geo:lat                  "274908N" ;
+        geo:long                 "175320W" .
+
+si2:2117D  aemet:indsinop        "08144" ;
+        aemet:locatedInProvince  si2:Burgos ;
+        aemet:stationName        "ARANDA DE DUERO" ;
+        geo:alt                  "790" ;
+        geo:lat                  "413957N" ;
+        geo:long                 "034434W" .
+
+si2:8523X  aemet:indsinop        "08239" ;
+        aemet:locatedInProvince  si2:Castellon ;
+        aemet:stationName        "VINARÒS" ;
+        geo:alt                  "111" ;
+        geo:lat                  "403315N" ;
+        geo:long                 "002547E" .
+
+si2:2755X  aemet:indsinop        "08056" ;
+        aemet:locatedInProvince  si2:Zamora ;
+        aemet:stationName        "BENAVENTE" ;
+        geo:alt                  "715" ;
+        geo:lat                  "420039N" ;
+        geo:long                 "054000W" .
+
+si2:5973  aemet:indsinop         "08452" ;
+        aemet:locatedInProvince  si2:Cadiz ;
+        aemet:stationName        "CÁDIZ" ;
+        geo:alt                  "2" ;
+        geo:lat                  "362959N" ;
+        geo:long                 "061528W" .
+
+si2:8175  aemet:indsinop         "08280" ;
+        aemet:locatedInProvince  si2:Albacete ;
+        aemet:stationName        "ALBACETE BASE AÉREA" ;
+        geo:alt                  "702" ;
+        geo:lat                  "385715N" ;
+        geo:long                 "015123W" .
+
+si2:1473A  aemet:indsinop        "08039" ;
+        aemet:locatedInProvince  si2:ACoruña ;
+        aemet:stationName        "PADRÓN" ;
+        geo:alt                  "100" ;
+        geo:lat                  "424418N" ;
+        geo:long                 "083738W" .
+
+si2:C619I  aemet:indsinop        "60027" ;
+        aemet:locatedInProvince  si2:LasPalmas ;
+        aemet:stationName        "LA ALDEA DE SAN NICOLÁS" ;
+        geo:alt                  "10" ;
+        geo:lat                  "280003N" ;
+        geo:long                 "154850W" .
+
+si2:2539  aemet:indsinop         "08140" ;
+        aemet:locatedInProvince  si2:Valladolid ;
+        aemet:stationName        "VALLADOLID AEROPUERTO" ;
+        geo:alt                  "846" ;
+        geo:lat                  "414243N" ;
+        geo:long                 "045120W" .
+
+si2:5910  aemet:indsinop         "08449" ;
+        aemet:locatedInProvince  si2:Cadiz ;
+        aemet:stationName        "ROTA, BASE NAVAL" ;
+        geo:alt                  "21" ;
+        geo:lat                  "363820N" ;
+        geo:long                 "061957W" .
+
+si2:6156X  aemet:indsinop        "08481" ;
+        aemet:locatedInProvince  si2:Malaga ;
+        aemet:stationName        "MÁLAGA, CENTRO METEOROLÓGICO" ;
+        geo:alt                  "54" ;
+        geo:lat                  "364304N" ;
+        geo:long                 "042854W" .
+
+si2:9720X  aemet:indsinop        "08173" ;
+        aemet:locatedInProvince  si2:Lleida ;
+        aemet:stationName        "TÀRREGA" ;
+        geo:alt                  "388" ;
+        geo:lat                  "413902N" ;
+        geo:long                 "010858E" .
+
+si2:9244X  aemet:indsinop        "08090" ;
+        aemet:locatedInProvince  si2:Zaragoza ;
+        aemet:stationName        "SOS DEL REY CATÓLICO" ;
+        geo:alt                  "626" ;
+        geo:lat                  "422927N" ;
+        geo:long                 "011249W" .
+
+si2:B569X  aemet:indsinop        "08311" ;
+        aemet:locatedInProvince  si2:IllesBalears ;
+        aemet:stationName        "CAPDEPERA" ;
+        geo:alt                  "66" ;
+        geo:lat                  "394256N" ;
+        geo:long                 "032841E" .
+
+si2:6325O  aemet:indsinop        "08487" ;
+        aemet:locatedInProvince  si2:Almeria ;
+        aemet:stationName        "ALMERÍA AEROPUERTO" ;
+        geo:alt                  "21" ;
+        geo:lat                  "365047N" ;
+        geo:long                 "022125W" .
+
+si2:1078I  aemet:indsinop        "08035" ;
+        aemet:locatedInProvince  si2:Bizkaia ;
+        aemet:stationName        "GÜEÑES" ;
+        geo:alt                  "208" ;
+        geo:lat                  "431212N" ;
+        geo:long                 "030617W" .
+
+si2:1437O  aemet:indsinop        "08043" ;
+        aemet:locatedInProvince  si2:ACoruña ;
+        aemet:stationName        "MONTE IROITE" ;
+        geo:alt                  "685" ;
+        geo:lat                  "424314N" ;
+        geo:long                 "085524W" .
+
+si2:2775X  aemet:indsinop        "08125" ;
+        aemet:locatedInProvince  si2:Zamora ;
+        aemet:stationName        "VILLARDECIERVOS" ;
+        geo:alt                  "850" ;
+        geo:lat                  "415629N" ;
+        geo:long                 "061647W" .
+
+si2:3168D  aemet:indsinop        "08226" ;
+        aemet:locatedInProvince  si2:Guadalajara ;
+        aemet:stationName        "GUADALAJARA" ;
+        geo:alt                  "721" ;
+        geo:lat                  "403749N" ;
+        geo:long                 "030900W" .
+
+si2:7275C  aemet:indsinop        "08356" ;
+        aemet:locatedInProvince  si2:Murcia ;
+        aemet:stationName        "YECLA" ;
+        geo:alt                  "640" ;
+        geo:lat                  "383606N" ;
+        geo:long                 "010935W" .
+
+si2:5960  aemet:indsinop         "08451" ;
+        aemet:locatedInProvince  si2:Cadiz ;
+        aemet:stationName        "JEREZ DE LA FRONTERA AEROPUERTO" ;
+        geo:alt                  "27" ;
+        geo:lat                  "364502N" ;
+        geo:long                 "060321W" .
+
+si2:6001  aemet:indsinop         "08458" ;
+        aemet:locatedInProvince  si2:Cadiz ;
+        aemet:stationName        "TARIFA" ;
+        geo:alt                  "32" ;
+        geo:lat                  "360050N" ;
+        geo:long                 "053556W" .
+
+si2:6332X  aemet:indsinop        "08488" ;
+        aemet:locatedInProvince  si2:Almeria ;
+        aemet:stationName        "CARBONERAS" ;
+        geo:alt                  "16" ;
+        geo:lat                  "365849N" ;
+        geo:long                 "015413W" .
+
+si2:9987P  aemet:indsinop        "08240" ;
+        aemet:locatedInProvince  si2:Tarragona ;
+        aemet:stationName        "SANT JAUME D'ENVEJA" ;
+        geo:alt                  "1" ;
+        geo:lat                  "404157N" ;
+        geo:long                 "004836E" .
+
+si2:4061X  aemet:indsinop        "08275" ;
+        aemet:locatedInProvince  si2:Toledo ;
+        aemet:stationName        "QUINTANAR DE LA ORDEN" ;
+        geo:alt                  "691" ;
+        geo:lat                  "393551N" ;
+        geo:long                 "030249W" .
+
+si2:5192  aemet:indsinop         "08354" ;
+        aemet:locatedInProvince  si2:Jaen ;
+        aemet:stationName        "VILLARRODRIGO" ;
+        geo:alt                  "862" ;
+        geo:lat                  "382921N" ;
+        geo:long                 "023815W" .
+
+si2:3469  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Caceres ;
+        aemet:stationName        "CÁCERES, CIUDAD" ;
+        geo:alt                  "459" ;
+        geo:lat                  "392833N" ;
+        geo:long                 "062235W" .
+
+si2:C649I  aemet:indsinop        "60030" ;
+        aemet:locatedInProvince  si2:LasPalmas ;
+        aemet:stationName        "GRAN CANARIA AEROPUERTO" ;
+        geo:alt                  "32" ;
+        geo:lat                  "275504N" ;
+        geo:long                 "152343W" .
+
+si2:1249I  aemet:indsinop        "08015" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "OVIEDO" ;
+        geo:alt                  "336" ;
+        geo:lat                  "432112N" ;
+        geo:long                 "055227W" .
+
+si2:5641X  aemet:indsinop        "08395" ;
+        aemet:locatedInProvince  si2:Sevilla ;
+        aemet:stationName        "ÉCIJA" ;
+        geo:alt                  "130" ;
+        geo:lat                  "373058N" ;
+        geo:long                 "050506W" .
+
+si2:2946X  aemet:indsinop        "08195" ;
+        aemet:locatedInProvince  si2:Salamanca ;
+        aemet:stationName        "SAELICES EL CHICO" ;
+        geo:alt                  "680" ;
+        geo:lat                  "403806N" ;
+        geo:long                 "063600W" .
+
+si2:4358X  aemet:indsinop        "08333" ;
+        aemet:locatedInProvince  si2:Badajoz ;
+        aemet:stationName        "DON BENITO" ;
+        geo:alt                  "273" ;
+        geo:lat                  "385720N" ;
+        geo:long                 "055250W" .
+
+si2:C447A  aemet:indsinop        "60015" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "TENERIFE NORTE AEROPUERTO" ;
+        geo:alt                  "632" ;
+        geo:lat                  "282839N" ;
+        geo:long                 "161946W" .
+
+si2:3110C  aemet:indsinop        "08146" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "BUITRAGO DEL LOZOYA" ;
+        geo:alt                  "1026" ;
+        geo:lat                  "410025N" ;
+        geo:long                 "033649W" .
+
+si2:7002Y  aemet:indsinop        "08432" ;
+        aemet:locatedInProvince  si2:Murcia ;
+        aemet:stationName        "ÁGUILAS" ;
+        geo:alt                  "26" ;
+        geo:lat                  "372502N" ;
+        geo:long                 "013513W" .
+
+si2:9434  aemet:indsinop         "08160" ;
+        aemet:locatedInProvince  si2:Zaragoza ;
+        aemet:stationName        "ZARAGOZA AEROPUERTO" ;
+        geo:alt                  "249" ;
+        geo:lat                  "413938N" ;
+        geo:long                 "010015W" .
+
+si2:8416Y  aemet:indsinop        "08285" ;
+        aemet:locatedInProvince  si2:Valencia ;
+        aemet:stationName        "VALÈNCIA, VIVEROS" ;
+        geo:alt                  "11" ;
+        geo:lat                  "392850N" ;
+        geo:long                 "002159W" .
+
+si2:9091R  aemet:indsinop        "08080" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "VITORIA GASTEIZ AEROPUERTO" ;
+        geo:alt                  "513" ;
+        geo:lat                  "425219N" ;
+        geo:long                 "024359W" .
+
+si2:9814A  aemet:indsinop        "08101" ;
+        aemet:locatedInProvince  si2:Huesca ;
+        aemet:stationName        "TORLA" ;
+        geo:alt                  "1020" ;
+        geo:lat                  "423736N" ;
+        geo:long                 "000642W" .
+
+si2:C439J  aemet:indsinop        "60018" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "GÜÍMAR" ;
+        geo:alt                  "115" ;
+        geo:lat                  "281906N" ;
+        geo:long                 "162256W" .
+
+si2:7031  aemet:indsinop         "08433" ;
+        aemet:locatedInProvince  si2:Murcia ;
+        aemet:stationName        "SAN JAVIER AEROPUERTO" ;
+        geo:alt                  "4" ;
+        geo:lat                  "374720N" ;
+        geo:long                 "004812W" .
+
+si2:1002Y  aemet:indsinop        "08030" ;
+        aemet:locatedInProvince  si2:Navarra ;
+        aemet:stationName        "BAZTAN, IRURITA " ;
+        geo:alt                  "183" ;
+        geo:lat                  "430809N" ;
+        geo:long                 "013235W" .
+
+si2:1631E  aemet:indsinop        "08051" ;
+        aemet:locatedInProvince  si2:Ourense ;
+        aemet:stationName        "A POBRA DE TRIVES" ;
+        geo:alt                  "840" ;
+        geo:lat                  "422022N" ;
+        geo:long                 "071657W" .
+
+si2:1208A  aemet:indsinop        "" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "GIJÓN. LA MERCED" ;
+        geo:alt                  "22" ;
+        geo:lat                  "433230N" ;
+        geo:long                 "053943W" .
+
+si2:6277B  aemet:indsinop        "08486" ;
+        aemet:locatedInProvince  si2:Almeria ;
+        aemet:stationName        "ADRA" ;
+        geo:alt                  "8" ;
+        geo:lat                  "364450N" ;
+        geo:long                 "030114W" .
+
+si2:3130C  aemet:indsinop        "08150" ;
+        aemet:locatedInProvince  si2:Guadalajara ;
+        aemet:stationName        "SIGÜENZA" ;
+        geo:alt                  "1005" ;
+        geo:lat                  "410511N" ;
+        geo:long                 "023705W" .
+
+si2:1428  aemet:indsinop         "08042" ;
+        aemet:locatedInProvince  si2:ACoruña ;
+        aemet:stationName        "SANTIAGO DE COMPOSTELA AEROPUERTO" ;
+        geo:alt                  "370" ;
+        geo:lat                  "425317N" ;
+        geo:long                 "082438W" .
+
+si2:1083L  aemet:indsinop        "08020" ;
+        aemet:locatedInProvince  si2:Cantabria ;
+        aemet:stationName        "CASTRO URDIALES" ;
+        geo:alt                  "45" ;
+        geo:lat                  "432341N" ;
+        geo:long                 "031402W" .
+
+si2:1700X  aemet:indsinop        "08047" ;
+        aemet:locatedInProvince  si2:Ourense ;
+        aemet:stationName        "CARBALLIÑO, O" ;
+        geo:alt                  "400" ;
+        geo:lat                  "422517N" ;
+        geo:long                 "080533W" .
+
+si2:0372C  aemet:indsinop        "08120" ;
+        aemet:locatedInProvince  si2:Girona ;
+        aemet:stationName        "PORQUERES" ;
+        geo:alt                  "157" ;
+        geo:lat                  "420616N" ;
+        geo:long                 "024549E" .
+
+si2:4386B  aemet:indsinop        "08336" ;
+        aemet:locatedInProvince  si2:Badajoz ;
+        aemet:stationName        "LLERENA" ;
+        geo:alt                  "655" ;
+        geo:lat                  "381354N" ;
+        geo:long                 "060101W" .
+
+si2:0370B  aemet:indsinop        "" ;
+        aemet:locatedInProvince  si2:Girona ;
+        aemet:stationName        "GIRONA, ANTIC INSTITUT" ;
+        geo:alt                  "95" ;
+        geo:lat                  "415848N" ;
+        geo:long                 "024931E" .
+
+si2:1549  aemet:indsinop         "08053" ;
+        aemet:locatedInProvince  si2:Leon ;
+        aemet:stationName        "PONFERRADA" ;
+        geo:alt                  "534" ;
+        geo:lat                  "423350N" ;
+        geo:long                 "063600W" .
+
+si2:1024E  aemet:indsinop        "08027" ;
+        aemet:locatedInProvince  si2:Gipuzkoa ;
+        aemet:stationName        "DONOSTIA/SAN SEBASTIÁN, IGUELDO" ;
+        geo:alt                  "251" ;
+        geo:lat                  "431823N" ;
+        geo:long                 "020228W" .
+
+si2:8293X  aemet:indsinop        "08290" ;
+        aemet:locatedInProvince  si2:Valencia ;
+        aemet:stationName        "XÀTIVA" ;
+        geo:alt                  "88" ;
+        geo:lat                  "390006N" ;
+        geo:long                 "003125W" .
+
+si2:5051X  aemet:indsinop        "08423" ;
+        aemet:locatedInProvince  si2:Granada ;
+        aemet:stationName        "HUÉSCAR" ;
+        geo:alt                  "1092" ;
+        geo:lat                  "375140N" ;
+        geo:long                 "023910W" .
+
+si2:4103X  aemet:indsinop        "08276" ;
+        aemet:locatedInProvince  si2:Ciudad-Real ;
+        aemet:stationName        "TOMELLOSO" ;
+        geo:alt                  "662" ;
+        geo:lat                  "391009N" ;
+        geo:long                 "030027W" .
+
+si2:4267X  aemet:indsinop        "08335" ;
+        aemet:locatedInProvince  si2:Cordoba ;
+        aemet:stationName        "HINOJOSA DEL DUQUE" ;
+        geo:alt                  "551" ;
+        geo:lat                  "382955N" ;
+        geo:long                 "050716W" .
+
+si2:9087  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "VITORIA AERÓDROMO" ;
+        geo:alt                  "521" ;
+        geo:lat                  "425059N" ;
+        geo:long                 "023922W" .
+
+si2:1331A  aemet:indsinop        "08009" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "CASTROPOL" ;
+        geo:alt                  "40" ;
+        geo:lat                  "433129N" ;
+        geo:long                 "070153W" .
+
+si2:4410X  aemet:indsinop        "08331" ;
+        aemet:locatedInProvince  si2:Badajoz ;
+        aemet:stationName        "MÉRIDA" ;
+        geo:alt                  "228" ;
+        geo:lat                  "385457N" ;
+        geo:long                 "062308W" .
+
+si2:2444C  aemet:indsinop        "" ;
+        aemet:locatedInProvince  si2:Avila ;
+        aemet:stationName        "ÁVILA, AYUNTAMIENTO" ;
+        geo:alt                  "1143" ;
+        geo:lat                  "403924N" ;
+        geo:long                 "044201W" .
+
+si2:3259  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Toledo ;
+        aemet:stationName        "TOLEDO, LORENZANA" ;
+        geo:alt                  "540" ;
+        geo:lat                  "395134N" ;
+        geo:long                 "040132W" .
+
+si2:9563X  aemet:indsinop        "08237" ;
+        aemet:locatedInProvince  si2:Castellon ;
+        aemet:stationName        "CASTELLFORT" ;
+        geo:alt                  "1220" ;
+        geo:lat                  "402955N" ;
+        geo:long                 "001112W" .
+
+si2:5298X  aemet:indsinop        "08347" ;
+        aemet:locatedInProvince  si2:Jaen ;
+        aemet:stationName        "ANDÚJAR" ;
+        geo:alt                  "202" ;
+        geo:lat                  "380123N" ;
+        geo:long                 "040350W" .
+
+si2:1037Y  aemet:indsinop        "08037" ;
+        aemet:locatedInProvince  si2:Gipuzkoa ;
+        aemet:stationName        "ZUMARRAGA" ;
+        geo:alt                  "420" ;
+        geo:lat                  "430448N" ;
+        geo:long                 "021903W" .
+
+si2:6302A  aemet:indsinop        "08427" ;
+        aemet:locatedInProvince  si2:Almeria ;
+        aemet:stationName        "ABLA" ;
+        geo:alt                  "885" ;
+        geo:lat                  "370829N" ;
+        geo:long                 "024647W" .
+
+si2:1110  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Cantabria ;
+        aemet:stationName        "SANTANDER, CIUDAD" ;
+        geo:alt                  "64" ;
+        geo:lat                  "432754N" ;
+        geo:long                 "034908W" .
+
+si2:C129Z  aemet:indsinop        "60004" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "TAZACORTE" ;
+        geo:alt                  "62" ;
+        geo:lat                  "283545N" ;
+        geo:long                 "175455W" .
+
+si2:9573X  aemet:indsinop        "08164" ;
+        aemet:locatedInProvince  si2:Teruel ;
+        aemet:stationName        "ALCAÑIZ" ;
+        geo:alt                  "334" ;
+        geo:lat                  "410329N" ;
+        geo:long                 "000830W" .
+
+si2:7209  aemet:indsinop         "08426" ;
+        aemet:locatedInProvince  si2:Murcia ;
+        aemet:stationName        "LORCA" ;
+        geo:alt                  "312" ;
+        geo:lat                  "373917N" ;
+        geo:long                 "014114W" .
+
+si2:3338  aemet:indsinop         "08212" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "ROBLEDO DE CHAVELA" ;
+        geo:alt                  "790" ;
+        geo:lat                  "402540N" ;
+        geo:long                 "041500W" .
+
+si2:4452  aemet:indsinop         "08330" ;
+        aemet:locatedInProvince  si2:Badajoz ;
+        aemet:stationName        "BADAJOZ AEROPUERTO" ;
+        geo:alt                  "185" ;
+        geo:lat                  "385300N" ;
+        geo:long                 "064850W" .
+
+si2:9434P  aemet:indsinop        "08159" ;
+        aemet:locatedInProvince  si2:Zaragoza ;
+        aemet:stationName        "ZARAGOZA, VALDESPARTERA" ;
+        geo:alt                  "254" ;
+        geo:lat                  "413715N" ;
+        geo:long                 "005606W" .
+
+si2:C459Z  aemet:indsinop        "60012" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "PUERTO DE LA CRUZ" ;
+        geo:alt                  "25" ;
+        geo:lat                  "282505N" ;
+        geo:long                 "163253W" .
+
+si2:1735X  aemet:indsinop        "08050" ;
+        aemet:locatedInProvince  si2:Ourense ;
+        aemet:stationName        "XINZO DE LIMIA" ;
+        geo:alt                  "616" ;
+        geo:lat                  "420445N" ;
+        geo:long                 "074401W" .
+
+si2:9263X  aemet:indsinop        "08089" ;
+        aemet:locatedInProvince  si2:Navarra ;
+        aemet:stationName        "ARANGUREN, ILUNDAIN  " ;
+        geo:alt                  "572" ;
+        geo:lat                  "424634N" ;
+        geo:long                 "013157W" .
+
+si2:B346X  aemet:indsinop        "08310" ;
+        aemet:locatedInProvince  si2:IllesBalears ;
+        aemet:stationName        "PORRERES" ;
+        geo:alt                  "120" ;
+        geo:lat                  "393118N" ;
+        geo:long                 "030109E" .
+
+si2:9771  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Lleida ;
+        aemet:stationName        "LLEIDA, OBSERVATORIO" ;
+        geo:alt                  "199" ;
+        geo:lat                  "413702N" ;
+        geo:long                 "003716E" .
+
+si2:C139E  aemet:indsinop        "60005" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "LA PALMA AEROPUERTO" ;
+        geo:alt                  "33" ;
+        geo:lat                  "283759N" ;
+        geo:long                 "174518W" .
+
+si2:2916A  aemet:indsinop        "08129" ;
+        aemet:locatedInProvince  si2:Salamanca ;
+        aemet:stationName        "VITIGUDINO" ;
+        geo:alt                  "769" ;
+        geo:lat                  "410041N" ;
+        geo:long                 "062616W" .
+
+si2:2630X  aemet:indsinop        "08057" ;
+        aemet:locatedInProvince  si2:Leon ;
+        aemet:stationName        "PUERTO DE SAN ISIDRO" ;
+        geo:alt                  "1510" ;
+        geo:lat                  "430344N" ;
+        geo:long                 "052237W" .
+
+si2:6058I  aemet:indsinop        "08463" ;
+        aemet:locatedInProvince  si2:Malaga ;
+        aemet:stationName        "ESTEPONA" ;
+        geo:alt                  "11" ;
+        geo:lat                  "362501N" ;
+        geo:long                 "050918W" .
+
+si2:1041A  aemet:indsinop        "08026" ;
+        aemet:locatedInProvince  si2:Gipuzkoa ;
+        aemet:stationName        "ZUMAIA" ;
+        geo:alt                  "28" ;
+        geo:lat                  "431808N" ;
+        geo:long                 "021504W" .
+
+si2:7145D  aemet:indsinop        "08363" ;
+        aemet:locatedInProvince  si2:Murcia ;
+        aemet:stationName        "CIEZA" ;
+        geo:alt                  "265" ;
+        geo:lat                  "381358N" ;
+        geo:long                 "012250W" .
+
+si2:5000C  aemet:indsinop        "60320" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "CEUTA" ;
+        geo:alt                  "87" ;
+        geo:lat                  "355319N" ;
+        geo:long                 "052049W" .
+
+si2:B434X  aemet:indsinop        "08309" ;
+        aemet:locatedInProvince  si2:IllesBalears ;
+        aemet:stationName        "PORTOCOLOM  " ;
+        geo:alt                  "17" ;
+        geo:lat                  "392452N" ;
+        geo:long                 "031618E" .
+
+si2:B248  aemet:indsinop         "08303" ;
+        aemet:locatedInProvince  si2:IllesBalears ;
+        aemet:stationName        "SIERRA DE ALFABIA, BUNYOLA" ;
+        geo:alt                  "1030" ;
+        geo:lat                  "394406N" ;
+        geo:long                 "024247E" .
+
+si2:5181D  aemet:indsinop        "08352" ;
+        aemet:locatedInProvince  si2:Jaen ;
+        aemet:stationName        "ARROYO DEL OJANCO" ;
+        geo:alt                  "580" ;
+        geo:lat                  "381853N" ;
+        geo:long                 "025323W" .
+
+si2:3196  aemet:indsinop         "08223" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "MADRID, CUATRO VIENTOS" ;
+        geo:alt                  "690" ;
+        geo:lat                  "402232N" ;
+        geo:long                 "034710W" .
+
+si2:3175  aemet:indsinop         "08227" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "TORREJÓN DE ARDOZ" ;
+        geo:alt                  "607" ;
+        geo:lat                  "402919N" ;
+        geo:long                 "032637W" .
+
+si2:9111  aemet:indsinop         "08077" ;
+        aemet:locatedInProvince  si2:Burgos ;
+        aemet:stationName        "BELORADO" ;
+        geo:alt                  "820" ;
+        geo:lat                  "422516N" ;
+        geo:long                 "031013W" .
+
+si2:3111D  aemet:indsinop        "08145" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "SOMOSIERRA" ;
+        geo:alt                  "1450" ;
+        geo:lat                  "410808N" ;
+        geo:long                 "033449W" .
+
+si2:8325X  aemet:indsinop        "08287" ;
+        aemet:locatedInProvince  si2:Valencia ;
+        aemet:stationName        "POLINYÀ DE XÚQUER" ;
+        geo:alt                  "12" ;
+        geo:lat                  "391105N" ;
+        geo:long                 "002219W" .
+
+si2:2465A  aemet:indsinop        "" ;
+        aemet:locatedInProvince  si2:Segovia ;
+        aemet:stationName        "SEGOVIA, INSTITUTO" ;
+        geo:alt                  "990" ;
+        geo:lat                  "405648N" ;
+        geo:long                 "040657W" .
+
+si2:9569A  aemet:indsinop        "08166" ;
+        aemet:locatedInProvince  si2:Teruel ;
+        aemet:stationName        "CALANDA" ;
+        geo:alt                  "466" ;
+        geo:lat                  "405648N" ;
+        geo:long                 "001416W" .
+
+si2:9283X  aemet:indsinop        "08153" ;
+        aemet:locatedInProvince  si2:Navarra ;
+        aemet:stationName        "CADREITA" ;
+        geo:alt                  "268" ;
+        geo:lat                  "421225N" ;
+        geo:long                 "014241W" .
+
+si2:8489X  aemet:indsinop        "08241" ;
+        aemet:locatedInProvince  si2:Castellon ;
+        aemet:stationName        "VILLAFRANCA DEL CID/VILLAFRANCA" ;
+        geo:alt                  "1131" ;
+        geo:lat                  "402600N" ;
+        geo:long                 "001521W" .
+
+si2:6268X  aemet:indsinop        "08485" ;
+        aemet:locatedInProvince  si2:Granada ;
+        aemet:stationName        "MOTRIL" ;
+        geo:alt                  "12" ;
+        geo:lat                  "364322N" ;
+        geo:long                 "033149W" .
+
+si2:9019B  aemet:indsinop        "08033" ;
+        aemet:locatedInProvince  si2:Cantabria ;
+        aemet:stationName        "VALDERREDIBLE, POLIENTES   " ;
+        geo:alt                  "720" ;
+        geo:lat                  "424823N" ;
+        geo:long                 "035602W" .
+
+si2:1690B  aemet:indsinop        "" ;
+        aemet:locatedInProvince  si2:Ourense ;
+        aemet:stationName        "OURENSE,INSTITUTO" ;
+        geo:alt                  "148" ;
+        geo:lat                  "421956N" ;
+        geo:long                 "075152W" .
+
+si2:0367  aemet:indsinop         "08184" ;
+        aemet:locatedInProvince  si2:Girona ;
+        aemet:stationName        "GIRONA AEROPUERTO" ;
+        geo:alt                  "143" ;
+        geo:lat                  "415442N" ;
+        geo:long                 "024548E" .
+
+si2:9784P  aemet:indsinop        "08103" ;
+        aemet:locatedInProvince  si2:Huesca ;
+        aemet:stationName        "BIELSA" ;
+        geo:alt                  "990" ;
+        geo:lat                  "423748N" ;
+        geo:long                 "001329E" .
+
+si2:2737E  aemet:indsinop        "08123" ;
+        aemet:locatedInProvince  si2:Leon ;
+        aemet:stationName        "LAGUNAS DE SOMOZA" ;
+        geo:alt                  "1020" ;
+        geo:lat                  "422239N" ;
+        geo:long                 "061148W" .
+
+si2:3434X  aemet:indsinop        "08254" ;
+        aemet:locatedInProvince  si2:Caceres ;
+        aemet:stationName        "NAVALMORAL DE LA MATA" ;
+        geo:alt                  "269" ;
+        geo:lat                  "395645N" ;
+        geo:long                 "053457W" .
+
+si2:6293X  aemet:indsinop        "08492" ;
+        aemet:locatedInProvince  si2:Almeria ;
+        aemet:stationName        "ROQUETAS DE MAR" ;
+        geo:alt                  "3" ;
+        geo:lat                  "364113N" ;
+        geo:long                 "024206W" .
+
+si2:0229I  aemet:indsinop        "08192" ;
+        aemet:locatedInProvince  si2:Barcelona ;
+        aemet:stationName        "SABADELL AEROPUERTO" ;
+        geo:alt                  "146" ;
+        geo:lat                  "413125N" ;
+        geo:long                 "020611E" .
+
+si2:0002I  aemet:indsinop        "08169" ;
+        aemet:locatedInProvince  si2:Tarragona ;
+        aemet:stationName        "VANDELLÒS  " ;
+        geo:alt                  "32" ;
+        geo:lat                  "405729N" ;
+        geo:long                 "005217E" .
+
+si2:5270B  aemet:indsinop        "08417" ;
+        aemet:locatedInProvince  si2:Jaen ;
+        aemet:stationName        "JAÉN" ;
+        geo:alt                  "580" ;
+        geo:lat                  "374639N" ;
+        geo:long                 "034832W" .
+
+si2:4560Y  aemet:indsinop        "08380" ;
+        aemet:locatedInProvince  si2:Huelva ;
+        aemet:stationName        "ALAJAR" ;
+        geo:alt                  "572" ;
+        geo:lat                  "375207N" ;
+        geo:long                 "064030W" .
+
+si2:3194U  aemet:indsinop        "08220" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "MADRID, CIUDAD UNIVERSITARIA" ;
+        geo:alt                  "664" ;
+        geo:lat                  "402706N" ;
+        geo:long                 "034327W" .
+
+si2:C839I  aemet:indsinop        "" ;
+        aemet:locatedInProvince  si2:LasPalmas ;
+        aemet:stationName        "TEGUISE" ;
+        geo:alt                  "10" ;
+        geo:lat                  "291355N" ;
+        geo:long                 "133007W" .
+
+si2:5972X  aemet:indsinop        "08453" ;
+        aemet:locatedInProvince  si2:Cadiz ;
+        aemet:stationName        "SAN FERNANDO" ;
+        geo:alt                  "28" ;
+        geo:lat                  "362756N" ;
+        geo:long                 "061220W" .
+
+si2:8414A  aemet:indsinop        "08284" ;
+        aemet:locatedInProvince  si2:Valencia ;
+        aemet:stationName        "VALENCIA AEROPUERTO" ;
+        geo:alt                  "56" ;
+        geo:lat                  "392906N" ;
+        geo:long                 "002829W" .
+
+si2:5530E  aemet:indsinop        "08419" ;
+        aemet:locatedInProvince  si2:Granada ;
+        aemet:stationName        "GRANADA AEROPUERTO" ;
+        geo:alt                  "567" ;
+        geo:lat                  "371123N" ;
+        geo:long                 "034722W" .
+
+si2:8050X  aemet:indsinop        "08370" ;
+        aemet:locatedInProvince  si2:Alicante ;
+        aemet:stationName        "JÁVEA/ XÀBIA" ;
+        geo:alt                  "15" ;
+        geo:lat                  "384701N" ;
+        geo:long                 "001004E" .
+
+si2:3298X  aemet:indsinop        "08270" ;
+        aemet:locatedInProvince  si2:Toledo ;
+        aemet:stationName        "SAN PABLO DE LOS MONTES" ;
+        geo:alt                  "917" ;
+        geo:lat                  "393249N" ;
+        geo:long                 "042102W" .
+
+si2:1183X  aemet:indsinop        "08016" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "LLANES" ;
+        geo:alt                  "10" ;
+        geo:lat                  "432513N" ;
+        geo:long                 "044453W" .
+
+si2:1475X  aemet:indsinop        "08041" ;
+        aemet:locatedInProvince  si2:ACoruña ;
+        aemet:stationName        "SANTIAGO DE COMPOSTELA" ;
+        geo:alt                  "240" ;
+        geo:lat                  "425234N" ;
+        geo:long                 "083321W" .
+
+si2:4121  aemet:indsinop         "08348" ;
+        aemet:locatedInProvince  si2:Ciudad-Real ;
+        aemet:stationName        "CIUDAD REAL" ;
+        geo:alt                  "628" ;
+        geo:lat                  "385921N" ;
+        geo:long                 "035513W" .
+
+si2:5860E  aemet:indsinop        "08384" ;
+        aemet:locatedInProvince  si2:Huelva ;
+        aemet:stationName        "MOGUER, EL ARENOSILLO" ;
+        geo:alt                  "41" ;
+        geo:lat                  "370553N" ;
+        geo:long                 "064417W" .
+
+si2:C029O  aemet:indsinop        "60040" ;
+        aemet:locatedInProvince  si2:LasPalmas ;
+        aemet:stationName        "LANZAROTE AEROPUERTO" ;
+        geo:alt                  "14" ;
+        geo:lat                  "285707N" ;
+        geo:long                 "133601W" .
+
+si2:4605  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Huelva ;
+        aemet:stationName        "HUELVA" ;
+        geo:alt                  "17" ;
+        geo:lat                  "371524N" ;
+        geo:long                 "065659W" .
+
+si2:6172O  aemet:indsinop        "08479" ;
+        aemet:locatedInProvince  si2:Malaga ;
+        aemet:stationName        "MÁLAGA, PUERTO" ;
+        geo:alt                  "25" ;
+        geo:lat                  "364300N" ;
+        geo:long                 "042511W" .
+
+si2:9390  aemet:indsinop         "08157" ;
+        aemet:locatedInProvince  si2:Zaragoza ;
+        aemet:stationName        "DAROCA" ;
+        geo:alt                  "779" ;
+        geo:lat                  "410652N" ;
+        geo:long                 "012436W" .
+
+si2:2661  aemet:indsinop         "08055" ;
+        aemet:locatedInProvince  si2:Leon ;
+        aemet:stationName        "LEÓN, VIRGEN DEL CAMINO" ;
+        geo:alt                  "912" ;
+        geo:lat                  "423518N" ;
+        geo:long                 "053904W" .
+
+si2:2298  aemet:indsinop         "08149" ;
+        aemet:locatedInProvince  si2:Burgos ;
+        aemet:stationName        "PALACIOS DE LA SIERRA" ;
+        geo:alt                  "1080" ;
+        geo:lat                  "415735N" ;
+        geo:long                 "030754W" .
+
+si2:1505  aemet:indsinop         "08008" ;
+        aemet:locatedInProvince  si2:Lugo ;
+        aemet:stationName        "LUGO AEROPUERTO" ;
+        geo:alt                  "445" ;
+        geo:lat                  "430641N" ;
+        geo:long                 "072727W" .
+
+si2:3391  aemet:indsinop         "08208" ;
+        aemet:locatedInProvince  si2:Avila ;
+        aemet:stationName        "SOTILLO DE LA ADRADA" ;
+        geo:alt                  "630" ;
+        geo:lat                  "401719N" ;
+        geo:long                 "043527W" .
+
+si2:0149X  aemet:indsinop        "08174" ;
+        aemet:locatedInProvince  si2:Barcelona ;
+        aemet:stationName        "MANRESA" ;
+        geo:alt                  "291" ;
+        geo:lat                  "414312N" ;
+        geo:long                 "015025E" .
+
+si2:9619  aemet:indsinop         "08115" ;
+        aemet:locatedInProvince  si2:Lleida ;
+        aemet:stationName        "LA SEU D'URGELL" ;
+        geo:alt                  "677" ;
+        geo:lat                  "422117N" ;
+        geo:long                 "012747E" .
+
+si2:5995B  aemet:indsinop        "08457" ;
+        aemet:locatedInProvince  si2:Cadiz ;
+        aemet:stationName        "VEJER DE LA FRONTERA" ;
+        geo:alt                  "186" ;
+        geo:lat                  "361444N" ;
+        geo:long                 "055754W" .
+
+si2:5612B  aemet:indsinop        "08399" ;
+        aemet:locatedInProvince  si2:Sevilla ;
+        aemet:stationName        "LA RODA DE ANDALUCÍA" ;
+        geo:alt                  "410" ;
+        geo:lat                  "371140N" ;
+        geo:long                 "044612W" .
+
+si2:6155A  aemet:indsinop        "08482" ;
+        aemet:locatedInProvince  si2:Malaga ;
+        aemet:stationName        "MÁLAGA AEROPUERTO" ;
+        geo:alt                  "5" ;
+        geo:lat                  "363958N" ;
+        geo:long                 "042856W" .
+
+si2:5514  aemet:indsinop         "08420" ;
+        aemet:locatedInProvince  si2:Granada ;
+        aemet:stationName        "GRANADA BASE AÉREA" ;
+        geo:alt                  "687" ;
+        geo:lat                  "370814N" ;
+        geo:long                 "033753W" .
+
+si2:C249I  aemet:indsinop        "60035" ;
+        aemet:locatedInProvince  si2:LasPalmas ;
+        aemet:stationName        "FUERTEVENTURA AEROPUERTO" ;
+        geo:alt                  "25" ;
+        geo:lat                  "282641N" ;
+        geo:long                 "135147W" .
+
+si2:1210X  aemet:indsinop        "08012" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "CABO PEÑAS" ;
+        geo:alt                  "100" ;
+        geo:lat                  "433921N" ;
+        geo:long                 "055055W" .
+
+si2:3094B  aemet:indsinop        "08277" ;
+        aemet:locatedInProvince  si2:Cuenca ;
+        aemet:stationName        "TARANCÓN" ;
+        geo:alt                  "808" ;
+        geo:lat                  "400041N" ;
+        geo:long                 "030117W" .
+
+si2:1484  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Pontevedra ;
+        aemet:stationName        "PONTEVEDRA, INSTITUTO" ;
+        geo:alt                  "19" ;
+        geo:lat                  "422550N" ;
+        geo:long                 "083850W" .
+
+si2:9990X  aemet:indsinop        "08107" ;
+        aemet:locatedInProvince  si2:Lleida ;
+        aemet:stationName        "NAUT ARAN, ARTIES " ;
+        geo:alt                  "1161" ;
+        geo:lat                  "424201N" ;
+        geo:long                 "005237E" .
+
+si2:4220X  aemet:indsinop        "08271" ;
+        aemet:locatedInProvince  si2:Ciudad-Real ;
+        aemet:stationName        "PUEBLA DE DON RODRIGO" ;
+        geo:alt                  "485" ;
+        geo:lat                  "390519N" ;
+        geo:long                 "043659W" .
+
+si2:3260B  aemet:indsinop        "08272" ;
+        aemet:locatedInProvince  si2:Toledo ;
+        aemet:stationName        "TOLEDO" ;
+        geo:alt                  "515" ;
+        geo:lat                  "395305N" ;
+        geo:long                 "040243W" .
+
+si2:7228  aemet:indsinop         "08429" ;
+        aemet:locatedInProvince  si2:Murcia ;
+        aemet:stationName        "ALCANTARILLA, BASE AÉREA" ;
+        geo:alt                  "75" ;
+        geo:lat                  "375728N" ;
+        geo:long                 "011343W" .
+
+si2:C449C  aemet:indsinop        "60020" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "STA.CRUZ DE TENERIFE" ;
+        geo:alt                  "35" ;
+        geo:lat                  "282748N" ;
+        geo:long                 "161519W" .
+
+si2:2030  aemet:indsinop         "08148" ;
+        aemet:locatedInProvince  si2:Soria ;
+        aemet:stationName        "SORIA" ;
+        geo:alt                  "1082" ;
+        geo:lat                  "414630N" ;
+        geo:long                 "022859W" .
+
+si2:8309X  aemet:indsinop        "08281" ;
+        aemet:locatedInProvince  si2:Valencia ;
+        aemet:stationName        "UTIEL" ;
+        geo:alt                  "758" ;
+        geo:lat                  "393432N" ;
+        geo:long                 "011441W" .
+
+si2:1400  aemet:indsinop         "08040" ;
+        aemet:locatedInProvince  si2:ACoruña ;
+        aemet:stationName        "FISTERRA" ;
+        geo:alt                  "230" ;
+        geo:lat                  "425529N" ;
+        geo:long                 "091729W" .
+
+si2:1208  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "GIJÓN" ;
+        geo:alt                  "3" ;
+        geo:lat                  "433220N" ;
+        geo:long                 "053815W" .
+
+si2:9051  aemet:indsinop         "08063" ;
+        aemet:locatedInProvince  si2:Burgos ;
+        aemet:stationName        "MEDINA DE POMAR" ;
+        geo:alt                  "580" ;
+        geo:lat                  "425512N" ;
+        geo:long                 "032858W" .
+
+si2:9981A  aemet:indsinop        "08238" ;
+        aemet:locatedInProvince  si2:Tarragona ;
+        aemet:stationName        "TORTOSA" ;
+        geo:alt                  "50" ;
+        geo:lat                  "404913N" ;
+        geo:long                 "002936E" .
+
+si2:1542  aemet:indsinop         "08052" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "PUERTO DE LEITARIEGOS" ;
+        geo:alt                  "1530" ;
+        geo:lat                  "425939N" ;
+        geo:long                 "062451W" .
+
+si2:4147X  aemet:indsinop        "08351" ;
+        aemet:locatedInProvince  si2:Ciudad-Real ;
+        aemet:stationName        "VALDEPEÑAS" ;
+        geo:alt                  "700" ;
+        geo:lat                  "384502N" ;
+        geo:long                 "032329W" .
+
+si2:1059X  aemet:indsinop        "08059" ;
+        aemet:locatedInProvince  si2:Bizkaia ;
+        aemet:stationName        "PUNTA GALEA" ;
+        geo:alt                  "90" ;
+        geo:lat                  "432230N" ;
+        geo:long                 "030118W" .
+
+si2:0255B  aemet:indsinop        "08188" ;
+        aemet:locatedInProvince  si2:Barcelona ;
+        aemet:stationName        "SANTA SUSANNA" ;
+        geo:alt                  "40" ;
+        geo:lat                  "413903N" ;
+        geo:long                 "024149E" .
+
+si2:0200E  aemet:indsinop        "" ;
+        aemet:locatedInProvince  si2:Barcelona ;
+        aemet:stationName        "BARCELONA, FABRA" ;
+        geo:alt                  "408" ;
+        geo:lat                  "412506N" ;
+        geo:long                 "020727E" .
+
+si2:5000A  aemet:indsinop        "" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "CEUTA, MONTE HACHO" ;
+        geo:alt                  "200" ;
+        geo:lat                  "355344N" ;
+        geo:long                 "051732W" .
+
+si2:1057B  aemet:indsinop        "" ;
+        aemet:locatedInProvince  si2:Bizkaia ;
+        aemet:stationName        "MACHICHACO" ;
+        geo:alt                  "93" ;
+        geo:lat                  "432714N" ;
+        geo:long                 "024510W" .
+
+si2:2614  aemet:indsinop         "08130" ;
+        aemet:locatedInProvince  si2:Zamora ;
+        aemet:stationName        "ZAMORA" ;
+        geo:alt                  "656" ;
+        geo:lat                  "413056N" ;
+        geo:long                 "054407W" .
+
+si2:2422  aemet:indsinop         "08141" ;
+        aemet:locatedInProvince  si2:Valladolid ;
+        aemet:stationName        "VALLADOLID" ;
+        geo:alt                  "735" ;
+        geo:lat                  "413827N" ;
+        geo:long                 "044516W" .
+
+si2:2401  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Palencia ;
+        aemet:stationName        "PALENCIA, OBSERVATORIO" ;
+        geo:alt                  "750" ;
+        geo:lat                  "420018N" ;
+        geo:long                 "043145W" .
+
+si2:B893  aemet:indsinop         "08314" ;
+        aemet:locatedInProvince  si2:IllesBalears ;
+        aemet:stationName        "MENORCA, AEROPUERTO" ;
+        geo:alt                  "91" ;
+        geo:lat                  "395117N" ;
+        geo:long                 "041256E" .
+
+si2:0016A  aemet:indsinop        "08175" ;
+        aemet:locatedInProvince  si2:Tarragona ;
+        aemet:stationName        "REUS AEROPUERTO" ;
+        geo:alt                  "71" ;
+        geo:lat                  "410842N" ;
+        geo:long                 "010949E" .
+
+si2:C329Z  aemet:indsinop        "60008" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "SAN SEBASTIÁN DE LA GOMERA" ;
+        geo:alt                  "15" ;
+        geo:lat                  "280523N" ;
+        geo:long                 "170641W" .
+
+si2:2235U  aemet:indsinop        "08058" ;
+        aemet:locatedInProvince  si2:Palencia ;
+        aemet:stationName        "CERVERA DE PISUERGA" ;
+        geo:alt                  "1140" ;
+        geo:lat                  "425214N" ;
+        geo:long                 "043112W" .
+
+si2:9585  aemet:indsinop         "08117" ;
+        aemet:locatedInProvince  si2:Girona ;
+        aemet:stationName        "LA MOLINA" ;
+        geo:alt                  "1703" ;
+        geo:lat                  "421957N" ;
+        geo:long                 "015622E" .
+
+si2:5582A  aemet:indsinop        "08414" ;
+        aemet:locatedInProvince  si2:Granada ;
+        aemet:stationName        "LOJA" ;
+        geo:alt                  "594" ;
+        geo:lat                  "370940N" ;
+        geo:long                 "040910W" .
+
+si2:9898  aemet:indsinop         "08094" ;
+        aemet:locatedInProvince  si2:Huesca ;
+        aemet:stationName        "HUESCA AEROPUERTO" ;
+        geo:alt                  "546" ;
+        geo:lat                  "420504N" ;
+        geo:long                 "001932W" .
+
+si2:9201K  aemet:indsinop        "08091" ;
+        aemet:locatedInProvince  si2:Huesca ;
+        aemet:stationName        "JACA" ;
+        geo:alt                  "823" ;
+        geo:lat                  "423444N" ;
+        geo:long                 "003249W" .
+
+si2:4549Y  aemet:indsinop        "08381" ;
+        aemet:locatedInProvince  si2:Huelva ;
+        aemet:stationName        "AYAMONTE" ;
+        geo:alt                  "2" ;
+        geo:lat                  "371141N" ;
+        geo:long                 "072342W" .
+
+si2:5246  aemet:indsinop         "08350" ;
+        aemet:locatedInProvince  si2:Jaen ;
+        aemet:stationName        "SANTA ELENA" ;
+        geo:alt                  "770" ;
+        geo:lat                  "382040N" ;
+        geo:long                 "033207W" .
+
+si2:5427X  aemet:indsinop        "08412" ;
+        aemet:locatedInProvince  si2:Cordoba ;
+        aemet:stationName        "DOÑA MENCÍA" ;
+        geo:alt                  "650" ;
+        geo:lat                  "373322N" ;
+        geo:long                 "042114W" .
+
+si2:6381  aemet:indsinop         "08490" ;
+        aemet:locatedInProvince  si2:Almeria ;
+        aemet:stationName        "ALBORÁN" ;
+        geo:alt                  "15" ;
+        geo:lat                  "355618N" ;
+        geo:long                 "030210W" .
+
+si2:2811A  aemet:indsinop        "08206" ;
+        aemet:locatedInProvince  si2:Avila ;
+        aemet:stationName        "NAVARREDONDA DE GREDOS" ;
+        geo:alt                  "1525" ;
+        geo:lat                  "402102N" ;
+        geo:long                 "050835W" .
+
+si2:3526X  aemet:indsinop        "08251" ;
+        aemet:locatedInProvince  si2:Caceres ;
+        aemet:stationName        "CORIA" ;
+        geo:alt                  "313" ;
+        geo:lat                  "400013N" ;
+        geo:long                 "063327W" .
+
+si2:3463X  aemet:indsinop        "08263" ;
+        aemet:locatedInProvince  si2:Caceres ;
+        aemet:stationName        "TRUJILLO" ;
+        geo:alt                  "503" ;
+        geo:lat                  "392857N" ;
+        geo:long                 "055115W" .
+
+si2:1387  aemet:indsinop         "08001" ;
+        aemet:locatedInProvince  si2:ACoruña ;
+        aemet:stationName        "A CORUÑA" ;
+        geo:alt                  "58" ;
+        geo:lat                  "432157N" ;
+        geo:long                 "082517W" .
+
+si2:9001D  aemet:indsinop        "08032" ;
+        aemet:locatedInProvince  si2:Cantabria ;
+        aemet:stationName        "REINOSA" ;
+        geo:alt                  "870" ;
+        geo:lat                  "425931N" ;
+        geo:long                 "040938W" .
+
+si2:1484C  aemet:indsinop        "08044" ;
+        aemet:locatedInProvince  si2:Pontevedra ;
+        aemet:stationName        "PONTEVEDRA" ;
+        geo:alt                  "108" ;
+        geo:lat                  "422618N" ;
+        geo:long                 "083657W" .
+
+si2:7247X  aemet:indsinop        "08357" ;
+        aemet:locatedInProvince  si2:Alicante ;
+        aemet:stationName        "PINOSO " ;
+        geo:alt                  "575" ;
+        geo:lat                  "382359N" ;
+        geo:long                 "010217W" .
+
+si2:8416  aemet:indsinop         "08285" ;
+        aemet:locatedInProvince  si2:Valencia ;
+        aemet:stationName        "VALÈNCIA" ;
+        geo:alt                  "11" ;
+        geo:lat                  "392850N" ;
+        geo:long                 "002159W" .
+
+si2:2374X  aemet:indsinop        "08068" ;
+        aemet:locatedInProvince  si2:Palencia ;
+        aemet:stationName        "CARRIÓN DE LOS CONDES" ;
+        geo:alt                  "830" ;
+        geo:lat                  "422103N" ;
+        geo:long                 "043702W" .
+
+si2:C659M  aemet:indsinop        "60032" ;
+        aemet:locatedInProvince  si2:LasPalmas ;
+        aemet:stationName        "LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA" ;
+        geo:alt                  "15" ;
+        geo:lat                  "280647N" ;
+        geo:long                 "152517W" .
+
+si2:1111  aemet:indsinop         "08023" ;
+        aemet:locatedInProvince  si2:Cantabria ;
+        aemet:stationName        "SANTANDER" ;
+        geo:alt                  "52" ;
+        geo:lat                  "432928N" ;
+        geo:long                 "034802W" .
+
+si2:1111X  aemet:indsinop        "08023" ;
+        aemet:locatedInProvince  si2:Cantabria ;
+        aemet:stationName        "SANTANDER" ;
+        geo:alt                  "52" ;
+        geo:lat                  "432928N" ;
+        geo:long                 "034802W" .
+
+si2:1082  aemet:indsinop         "08025" ;
+        aemet:locatedInProvince  si2:Bizkaia ;
+        aemet:stationName        "BILBAO AEROPUERTO" ;
+        geo:alt                  "42" ;
+        geo:lat                  "431753N" ;
+        geo:long                 "025423W" .
+
+si2:1014A  aemet:indsinop        "08029" ;
+        aemet:locatedInProvince  si2:Gipuzkoa ;
+        aemet:stationName        "SAN SEBASTIÁN AEROPUERTO" ;
+        geo:alt                  "4" ;
+        geo:lat                  "432125N" ;
+        geo:long                 "014732W" .
+
+si2:9381I  aemet:indsinop        "08233" ;
+        aemet:locatedInProvince  si2:Teruel ;
+        aemet:stationName        "CALAMOCHA" ;
+        geo:alt                  "890" ;
+        geo:lat                  "405534N" ;
+        geo:long                 "011736W" .
+
+si2:4121C  aemet:indsinop        "" ;
+        aemet:locatedInProvince  si2:Ciudad-Real ;
+        aemet:stationName        "CIUDAD REAL, INSTITUTO" ;
+        geo:alt                  "627" ;
+        geo:lat                  "385916N" ;
+        geo:long                 "035545W" .
+
+si2:C689E  aemet:indsinop        "60037" ;
+        aemet:locatedInProvince  si2:LasPalmas ;
+        aemet:stationName        "MASPALOMAS" ;
+        geo:alt                  "6" ;
+        geo:lat                  "274409N" ;
+        geo:long                 "153545W" .
+
+si2:9263D  aemet:indsinop        "08085" ;
+        aemet:locatedInProvince  si2:Navarra ;
+        aemet:stationName        "PAMPLONA AEROPUERTO" ;
+        geo:alt                  "459" ;
+        geo:lat                  "424637N" ;
+        geo:long                 "013900W" .
+
+si2:6297  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Almeria ;
+        aemet:stationName        "ALMERÍA" ;
+        geo:alt                  "7" ;
+        geo:lat                  "364952N" ;
+        geo:long                 "022720W" .
+
+si2:9576C  aemet:indsinop        "08165" ;
+        aemet:locatedInProvince  si2:Zaragoza ;
+        aemet:stationName        "BUJARALOZ" ;
+        geo:alt                  "357" ;
+        geo:lat                  "413121N" ;
+        geo:long                 "001028W" .
+
+si2:8368U  aemet:indsinop        "08235" ;
+        aemet:locatedInProvince  si2:Teruel ;
+        aemet:stationName        "TERUEL" ;
+        geo:alt                  "900" ;
+        geo:lat                  "402102N" ;
+        geo:long                 "010727W" .
+
+si2:1495  aemet:indsinop         "08045" ;
+        aemet:locatedInProvince  si2:Pontevedra ;
+        aemet:stationName        "VIGO AEROPUERTO" ;
+        geo:alt                  "261" ;
+        geo:lat                  "421419N" ;
+        geo:long                 "083726W" .
+
+si2:2400E  aemet:indsinop        "08072" ;
+        aemet:locatedInProvince  si2:Palencia ;
+        aemet:stationName        "AUTILLA DEL PINO" ;
+        geo:alt                  "874" ;
+        geo:lat                  "415944N" ;
+        geo:long                 "043610W" .
+
+si2:7178I  aemet:indsinop        "08430" ;
+        aemet:locatedInProvince  si2:Murcia ;
+        aemet:stationName        "MURCIA" ;
+        geo:alt                  "61" ;
+        geo:lat                  "380007N" ;
+        geo:long                 "011015W" .
+
+si2:6000A  aemet:indsinop        "60338" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "MELILLA" ;
+        geo:alt                  "52" ;
+        geo:lat                  "351635N" ;
+        geo:long                 "025723W" .
+
+si2:B228  aemet:indsinop         "08301" ;
+        aemet:locatedInProvince  si2:IllesBalears ;
+        aemet:stationName        "PALMA, PUERTO" ;
+        geo:alt                  "3" ;
+        geo:lat                  "393312N" ;
+        geo:long                 "023731E" .
+
+si2:3013  aemet:indsinop         "08232" ;
+        aemet:locatedInProvince  si2:Guadalajara ;
+        aemet:stationName        "MOLINA DE ARAGÓN" ;
+        geo:alt                  "1062" ;
+        geo:lat                  "405030N" ;
+        geo:long                 "015244W" .
+
+si2:8019  aemet:indsinop         "08360" ;
+        aemet:locatedInProvince  si2:Alicante ;
+        aemet:stationName        "ALICANTE-ELCHE AEROPUERTO" ;
+        geo:alt                  "43" ;
+        geo:lat                  "381658N" ;
+        geo:long                 "003415W" .
+
+si2:4148  aemet:indsinop         "08345" ;
+        aemet:locatedInProvince  si2:Ciudad-Real ;
+        aemet:stationName        "VISO DEL MARQUÉS" ;
+        geo:alt                  "778" ;
+        geo:lat                  "383105N" ;
+        geo:long                 "033400W" .
+
+si2:3168C  aemet:indsinop        "08226" ;
+        aemet:locatedInProvince  si2:Guadalajara ;
+        aemet:stationName        "GUADALAJARA, EL SERRANILLO" ;
+        geo:alt                  "639" ;
+        geo:lat                  "403933N" ;
+        geo:long                 "031024W" .
+
+si2:5911A  aemet:indsinop        "08455" ;
+        aemet:locatedInProvince  si2:Cadiz ;
+        aemet:stationName        "GRAZALEMA" ;
+        geo:alt                  "913" ;
+        geo:lat                  "364538N" ;
+        geo:long                 "052227W" .
+
+si2:B691Y  aemet:indsinop        "08312" ;
+        aemet:locatedInProvince  si2:IllesBalears ;
+        aemet:stationName        "SA POBLA" ;
+        geo:alt                  "40" ;
+        geo:lat                  "394457N" ;
+        geo:long                 "030100E" .
+
+si2:4511C  aemet:indsinop        "08337" ;
+        aemet:locatedInProvince  si2:Badajoz ;
+        aemet:stationName        "JEREZ DE LOS CABALLEROS" ;
+        geo:alt                  "381" ;
+        geo:lat                  "381755N" ;
+        geo:long                 "064554W" .
+
+si2:3469A  aemet:indsinop        "08261" ;
+        aemet:locatedInProvince  si2:Caceres ;
+        aemet:stationName        "CÁCERES" ;
+        geo:alt                  "394" ;
+        geo:lat                  "392817N" ;
+        geo:long                 "062020W" .
+
+si2:7119B  aemet:indsinop        "08365" ;
+        aemet:locatedInProvince  si2:Murcia ;
+        aemet:stationName        "CARAVACA DE LA CRUZ" ;
+        geo:alt                  "643" ;
+        geo:lat                  "380609N" ;
+        geo:long                 "015238W" .
+
+si2:1221D  aemet:indsinop        "08031" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "PUERTO DE PAJARES" ;
+        geo:alt                  "1480" ;
+        geo:lat                  "425843N" ;
+        geo:long                 "054635W" .
+
+si2:1387E  aemet:indsinop        "08002" ;
+        aemet:locatedInProvince  si2:ACoruña ;
+        aemet:stationName        "A CORUÑA AEROPUERTO" ;
+        geo:alt                  "98" ;
+        geo:lat                  "431825N" ;
+        geo:long                 "082219W" .
+
+si2:3576X  aemet:indsinop        "08260" ;
+        aemet:locatedInProvince  si2:Caceres ;
+        aemet:stationName        "VALENCIA DE ALCÁNTARA" ;
+        geo:alt                  "444" ;
+        geo:lat                  "392453N" ;
+        geo:long                 "071352W" .
+
+si2:0076  aemet:indsinop         "08181" ;
+        aemet:locatedInProvince  si2:Barcelona ;
+        aemet:stationName        "BARCELONA AEROPUERTO" ;
+        geo:alt                  "4" ;
+        geo:lat                  "411734N" ;
+        geo:long                 "020412E" .
+
+si2:5704B  aemet:indsinop        "08392" ;
+        aemet:locatedInProvince  si2:Sevilla ;
+        aemet:stationName        "CAZALLA DE LA SIERRA" ;
+        geo:alt                  "550" ;
+        geo:lat                  "375535N" ;
+        geo:long                 "054611W" .
+
+si2:4090Y  aemet:indsinop        "08256" ;
+        aemet:locatedInProvince  si2:Cuenca ;
+        aemet:stationName        "SAN CLEMENTE" ;
+        geo:alt                  "728" ;
+        geo:lat                  "392500N" ;
+        geo:long                 "022514W" .
+
+si2:B278  aemet:indsinop         "08306" ;
+        aemet:locatedInProvince  si2:IllesBalears ;
+        aemet:stationName        "PALMA, AEROPUERTO" ;
+        geo:alt                  "8" ;
+        geo:lat                  "393339N" ;
+        geo:long                 "024412E" .
+
+si2:3100B  aemet:indsinop        "08229" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "ARANJUEZ" ;
+        geo:alt                  "540" ;
+        geo:lat                  "400402N" ;
+        geo:long                 "033246W" .
+
+si2:B954  aemet:indsinop         "08373" ;
+        aemet:locatedInProvince  si2:IllesBalears ;
+        aemet:stationName        "IBIZA, AEROPUERTO" ;
+        geo:alt                  "6" ;
+        geo:lat                  "385235N" ;
+        geo:long                 "012304E" .
+
+si2:C659H  aemet:indsinop        "60029" ;
+        aemet:locatedInProvince  si2:LasPalmas ;
+        aemet:stationName        "LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL" ;
+        geo:alt                  "55" ;
+        geo:lat                  "280523N" ;
+        geo:long                 "152458W" .
+
+si2:5270  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Jaen ;
+        aemet:stationName        "JAÉN, INSTITUTO" ;
+        geo:alt                  "510" ;
+        geo:lat                  "374635N" ;
+        geo:long                 "034720W" .
+
+si2:6032B  aemet:indsinop        "08443" ;
+        aemet:locatedInProvince  si2:Malaga ;
+        aemet:stationName        "RONDA" ;
+        geo:alt                  "766" ;
+        geo:lat                  "364459N" ;
+        geo:long                 "051006W" .
+
+si2:5796  aemet:indsinop         "08397" ;
+        aemet:locatedInProvince  si2:Sevilla ;
+        aemet:stationName        "MORÓN DE LA FRONTERA" ;
+        geo:alt                  "87" ;
+        geo:lat                  "370952N" ;
+        geo:long                 "053641W" .
+
+si2:C429I  aemet:indsinop        "60025" ;
+        aemet:locatedInProvince  si2:null ;
+        aemet:stationName        "TENERIFE SUR AEROPUERTO" ;
+        geo:alt                  "64" ;
+        geo:lat                  "280249N" ;
+        geo:long                 "163340W" .
+
+si2:9262  aemet:indsinop         "" ;
+        aemet:locatedInProvince  si2:Navarra ;
+        aemet:stationName        "PAMPLONA" ;
+        geo:alt                  "450" ;
+        geo:lat                  "424904N" ;
+        geo:long                 "013818W" .
+
+si2:2867  aemet:indsinop         "08202" ;
+        aemet:locatedInProvince  si2:Salamanca ;
+        aemet:stationName        "SALAMANCA AEROPUERTO" ;
+        geo:alt                  "790" ;
+        geo:lat                  "405734N" ;
+        geo:long                 "052954W" .
+
+si2:1014  aemet:indsinop         "08029" ;
+        aemet:locatedInProvince  si2:Gipuzkoa ;
+        aemet:stationName        "HONDARRIBIA, MALKARROA" ;
+        geo:alt                  "4" ;
+        geo:lat                  "432125N" ;
+        geo:long                 "014732W" .
+
+si2:3044X  aemet:indsinop        "08230" ;
+        aemet:locatedInProvince  si2:Cuenca ;
+        aemet:stationName        "CAÑIZARES" ;
+        geo:alt                  "940" ;
+        geo:lat                  "403149N" ;
+        geo:long                 "020900W" .
+
+si2:C629X  aemet:indsinop        "60036" ;
+        aemet:locatedInProvince  si2:LasPalmas ;
+        aemet:stationName        "MOGÁN, PUERTO" ;
+        geo:alt                  "10" ;
+        geo:lat                  "274859N" ;
+        geo:long                 "154551W" .
+
+si2:4244X  aemet:indsinop        "08264" ;
+        aemet:locatedInProvince  si2:Badajoz ;
+        aemet:stationName        "HERRERA DEL DUQUE" ;
+        geo:alt                  "447" ;
+        geo:lat                  "391010N" ;
+        geo:long                 "050344W" .
+
+si2:2462  aemet:indsinop         "08215" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "PUERTO DE NAVACERRADA" ;
+        geo:alt                  "1894" ;
+        geo:lat                  "404735N" ;
+        geo:long                 "040038W" .
+
+si2:7012C  aemet:indsinop        "08434" ;
+        aemet:locatedInProvince  si2:Murcia ;
+        aemet:stationName        "CARTAGENA" ;
+        geo:alt                  "17" ;
+        geo:lat                  "373604N" ;
+        geo:long                 "005916W" .
+
+si2:9170  aemet:indsinop         "08084" ;
+        aemet:locatedInProvince  si2:LaRioja ;
+        aemet:stationName        "LOGROÑO AEROPUERTO" ;
+        geo:alt                  "353" ;
+        geo:lat                  "422708N" ;
+        geo:long                 "021952W" .
+
+si2:3200  aemet:indsinop         "08224" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "GETAFE" ;
+        geo:alt                  "620" ;
+        geo:lat                  "401758N" ;
+        geo:long                 "034320W" .
+
+si2:2661B  aemet:indsinop        "08055" ;
+        aemet:locatedInProvince  si2:Leon ;
+        aemet:stationName        "LEÓN AEROPUERTO" ;
+        geo:alt                  "912" ;
+        geo:lat                  "423558N" ;
+        geo:long                 "053837W" .
+
+si2:6205X  aemet:indsinop        "08484" ;
+        aemet:locatedInProvince  si2:Malaga ;
+        aemet:stationName        "TORROX" ;
+        geo:alt                  "3" ;
+        geo:lat                  "364335N" ;
+        geo:long                 "035726W" .
+
+si2:5783  aemet:indsinop         "08391" ;
+        aemet:locatedInProvince  si2:Sevilla ;
+        aemet:stationName        "SEVILLA AEROPUERTO" ;
+        geo:alt                  "34" ;
+        geo:lat                  "372500N" ;
+        geo:long                 "055245W" .
+
+si2:8500A  aemet:indsinop        "08286" ;
+        aemet:locatedInProvince  si2:Castellon ;
+        aemet:stationName        "CASTELLÓN - ALMASSORA" ;
+        geo:alt                  "43" ;
+        geo:lat                  "395726N" ;
+        geo:long                 "000419W" .
+
+si2:7096B  aemet:indsinop        "08355" ;
+        aemet:locatedInProvince  si2:Albacete ;
+        aemet:stationName        "HELLÍN" ;
+        geo:alt                  "605" ;
+        geo:lat                  "383231N" ;
+        geo:long                 "014211W" .
+
+si2:5047E  aemet:indsinop        "08424" ;
+        aemet:locatedInProvince  si2:Granada ;
+        aemet:stationName        "BAZA" ;
+        geo:alt                  "785" ;
+        geo:lat                  "373021N" ;
+        geo:long                 "024406W" .
+
+si2:6367B  aemet:indsinop        "08428" ;
+        aemet:locatedInProvince  si2:Almeria ;
+        aemet:stationName        "HUERCAL OVERA" ;
+        geo:alt                  "300" ;
+        geo:lat                  "372326N" ;
+        geo:long                 "015637W" .
+
+si2:3129  aemet:indsinop         "08221" ;
+        aemet:locatedInProvince  si2:Madrid ;
+        aemet:stationName        "MADRID AEROPUERTO" ;
+        geo:alt                  "609" ;
+        geo:lat                  "402800N" ;
+        geo:long                 "033320W" .
+
+si2:9394X  aemet:indsinop        "08156" ;
+        aemet:locatedInProvince  si2:Zaragoza ;
+        aemet:stationName        "CALATAYUD" ;
+        geo:alt                  "600" ;
+        geo:lat                  "411952N" ;
+        geo:long                 "013843W" .
+
+si2:3365A  aemet:indsinop        "08274" ;
+        aemet:locatedInProvince  si2:Toledo ;
+        aemet:stationName        "TALAVERA DE LA REINA" ;
+        geo:alt                  "372" ;
+        geo:lat                  "395731N" ;
+        geo:long                 "045149W" .
+
+si2:5038X  aemet:indsinop        "08353" ;
+        aemet:locatedInProvince  si2:Jaen ;
+        aemet:stationName        "CAZORLA" ;
+        geo:alt                  "813" ;
+        geo:lat                  "375457N" ;
+        geo:long                 "030014W" .
+
+si2:1249X  aemet:indsinop        "08015" ;
+        aemet:locatedInProvince  si2:Asturias ;
+        aemet:stationName        "OVIEDO" ;
+        geo:alt                  "336" ;
+        geo:lat                  "432112N" ;
+        geo:long                 "055227W" .
+
+si2:C229J  aemet:indsinop        "60034" ;
+        aemet:locatedInProvince  si2:LasPalmas ;
+        aemet:stationName        "PÁJARA" ;
+        geo:alt                  "15" ;
+        geo:lat                  "280257N" ;
+        geo:long                 "142129W" .

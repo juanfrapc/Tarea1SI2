@@ -18,7 +18,9 @@ public class Grafo {
     private static final String si2 = "http://www.si2.com/";
     private static final String aemet = "http://aemet.linkeddata.es/ontology/";
     private static final String geo = "http://www.w3.org/2003/01/geo/wgs84_pos#";
+
     private final Model modelo;
+    private Toponimos toponimos = Toponimos.getInstance();
     private final Property indsinop;
     private final Property province;
     private final Property latitud;
@@ -33,7 +35,7 @@ public class Grafo {
         modelo.setNsPrefix("geo", geo);
         nombre = ResourceFactory.createProperty(aemet, "stationName");
         indsinop = ResourceFactory.createProperty(aemet, "indsinop");
-        province = ResourceFactory.createProperty(aemet, "Province");
+        province = ResourceFactory.createProperty(aemet, "locatedInProvince");
         latitud = ResourceFactory.createProperty(geo, "lat");
         altitud = ResourceFactory.createProperty(geo, "alt");
         longitud = ResourceFactory.createProperty(geo, "long");
@@ -43,10 +45,15 @@ public class Grafo {
         Resource resource = modelo.createResource(si2 + node.getString("indicativo"));
         resource.addLiteral(nombre, node.getString("nombre"));
         resource.addLiteral(indsinop, node.getString("indsinop"));
-        resource.addLiteral(province, node.getString("provincia"));
+        resource.addProperty(province, getProvinceNode(node));
         resource.addLiteral(latitud, node.getString("latitud"));
         resource.addLiteral(altitud, node.getString("altitud"));
         resource.addLiteral(longitud, node.getString("longitud"));
+    }
+
+    private Resource getProvinceNode(JSONObject node) throws JSONException {
+        String provincia = toponimos.getCanonical(node.getString("provincia"));
+        return modelo.getResource(si2 + provincia);
     }
 
     public void addStation(JSONArray array) throws JSONException {
