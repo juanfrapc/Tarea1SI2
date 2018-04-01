@@ -27,7 +27,7 @@ public class Toponimos {
 
         map.put("BIZKAIA", "Bizkaia");
         map.put("GIPUZKOA", "Gipuzkoa");
-        map.put("Alava", "Alava");
+        map.put("ARABA/ALAVA", "Alava");
 
         map.put("LA RIOJA", "LaRioja");
         map.put("NAVARRA", "Navarra");
@@ -79,8 +79,11 @@ public class Toponimos {
         map.put("GRANADA", "Granada");
         map.put("ALMERIA", "Almeria");
 
-        map.put("Sta. CRUZ DE TENERIFE", "SantaCruzDeTenerife");
+        map.put("STA. CRUZ DE TENERIFE", "SantaCruzDeTenerife");
         map.put("LAS PALMAS", "LasPalmas");
+
+        map.put("CEUTA", "Ceuta");
+        map.put("MELILLA", "Melilla");
     }
 
     public String getCanonical(String key) {
